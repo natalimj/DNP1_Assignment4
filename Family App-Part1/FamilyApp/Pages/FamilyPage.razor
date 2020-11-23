@@ -1,0 +1,239 @@
+﻿@page "/FamilyPage"
+@page "/FamilyPage/{StreetNameF}/{HouseNumberF:int}"
+@using FamilyApp.Models
+@using FamilyApp.Data
+@using System.Threading
+@inject IFamilyService FamilyService
+@inject IMemberService MemberService
+@inject NavigationManager NavigationManager
+
+<div class="container mb-4 mt-3 text-center">
+  
+    <div class="mw-100 p-3 my-3">
+        <div class="row">
+            <div class="col-lg mx-auto">
+
+                <div class="card" style="width: 15rem;">
+                    <img class="card-img-top" src="/images/a1.png" alt="adult">
+                    <button class="btn p-3" style="background-color: #904C77;color: #cce5ff" @onclick="AddAdult">Add Adult</button>
+                </div>
+            </div>
+            <div class="col-lg mx-auto">
+
+                <div class="card" style="width: 15rem;">
+                    <img class="card-img-top" src="/images/c1.png" alt="child">
+                    <button class="btn p-3" style="background-color: #904C77;color: #cce5ff" @onclick="AddChild">Add Child</button>
+                </div>
+            </div>
+            <div class="col-lg mx-auto">
+
+                <div class="card" style="width: 15rem;">
+                    <img class="card-img-top" src="/images/p1.png" alt="pet">
+
+                    <button class="btn p-3" style="background-color: #904C77;color: #cce5ff" @onclick="AddPet">Add Pet</button>
+
+                </div>
+            </div>
+
+        </div>
+        <p class="error-message">@errorMessage</p>
+    </div>
+   <hr class="border-info">
+
+
+    <h4 class="text-info mb-3">Please select a family member to see details</h4>
+    <div class="row">
+        <div class="col-md">
+
+            <div class="list-group mb-3">
+                <button type="button" class="list-group-item list-group-item-action active list-group-item-light">
+                    Family Members
+                </button>
+                @if (SelectedFamily != null)
+                {
+                    @foreach (var adult in AdultsInFamily)
+                    {
+                        <button type="button" class="list-group-item list-group-item-action list-group-item-success"
+                                @onclick="@(() => ShowMember("adult", adult.Id))">
+                            @adult.FirstName @adult.LastName
+                        </button>
+                    }
+                    @foreach (var child in ChildrenInFamily)
+                    {
+                        <button type="button" class="list-group-item list-group-item-action list-group-item-warning"
+                                @onclick="@(() => ShowMember("child", child.Id))">
+                            @child.FirstName @child.LastName
+                        </button>
+                    }
+                    @foreach (var pet in PetsInFamily)
+                    {
+                        <button type="button" class="list-group-item list-group-item-action list-group-item-danger"
+                                @onclick="@(() => ShowMember("pet", pet.Id))">
+                            @pet.Species @pet.Name</button>
+                    }
+                }
+            </div>
+
+        </div>
+        <div class="col-md">
+             @if(memberType!=null){
+            @if (memberType.Equals(""))
+            {
+
+            }
+            else if (@memberType.Equals("adult"))
+            {
+                <div class="card bg-info" style="width: 18rem">
+                    <div class="card-header">
+                        @Adult.FirstName @Adult.LastName
+                    </div>
+
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">Gender:@Adult.Sex</li>
+                        <li class="list-group-item">Age:@Adult.Age</li>
+                        <li class="list-group-item">Hair Color:@Adult.HairColor</li>
+                        <li class="list-group-item">Eye Color:@Adult.EyeColor</li>
+                        <li class="list-group-item">Weight:@Adult.Weight</li>
+                        <li class="list-group-item">Height:@Adult.Height</li>
+                        <li class="list-group-item">Job Title:@Adult.JobTitle</li>
+                    </ul>
+                </div>
+
+            }
+            else if (memberType.Equals("child"))
+            {
+                <div class="card bg-info" style="width: 18rem">
+                    <div class="card-header">
+                        @Child.FirstName @Child.LastName
+                    </div>
+
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">Gender:@Child.Sex</li>
+                        <li class="list-group-item">Age:@Child.Age</li>
+                        <li class="list-group-item">Hair Color:@Child.HairColor</li>
+                        <li class="list-group-item">Eye Color:@Child.EyeColor</li>
+                        <li class="list-group-item">Weight:@Child.Weight</li>
+                        <li class="list-group-item">Height:@Child.Height</li>
+                        <li class="list-group-item">Interests:
+
+                            @foreach (var interest in Child.ChildInterests)
+                            {
+                                <em> * @interest.InterestId </em>
+                            }
+                        </li>
+                        <li class="list-group-item">Pets:
+
+                            @foreach (var pet in Child.Pets)
+                            {
+                                <em> * @pet.Species @pet.Name </em>
+                            }
+
+                        </li>
+
+                    </ul>
+                </div>
+            }
+            else if (memberType.Equals("pet"))
+            {
+                <div class="card bg-info" style="width: 18rem">
+                    <div class="card-header">
+                        @Pet.Name
+                    </div>
+
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">@Pet.Species</li>
+                        <li class="list-group-item">Age:@Pet.Age</li>
+                    </ul>
+                </div>
+
+            }
+}
+        </div>
+    </div>
+    <div class="text-center mt-4 border border-dark">
+        <AuthorizeView Policy="MustBeAdmin">
+            <p class="text-danger"><i class="oi oi-warning" style="color:red"/>Warning for admins: You cannot undo this action </p>
+            <button class="btn btn-warning btn-block" @onclick="@(() => RemoveFamily(SelectedFamily))"> Remove family (Members will still be accessible in the system) </button>
+        </AuthorizeView>
+    </div>
+</div>
+
+
+
+@code {
+
+    [Parameter]
+    public string StreetNameF { get; set; }
+    [Parameter]
+    public int HouseNumberF { get; set; }
+ 
+
+    private Family SelectedFamily;
+    private IList<Family> Families;
+    private String memberType;
+    private int memberId;
+    public Adult Adult;
+    public Child Child;
+    public Pet Pet;
+    String errorMessage;
+    private IList<Adult> AdultsInFamily;
+    private IList<Child> ChildrenInFamily;
+    private IList<Pet> PetsInFamily;
+
+    protected override async Task OnInitializedAsync()
+    {
+        SelectedFamily = await FamilyService.GetFamilyAsync(StreetNameF, HouseNumberF);
+        try
+        {
+            AdultsInFamily = SelectedFamily.Adults;
+            ChildrenInFamily = SelectedFamily.Children;
+            PetsInFamily = SelectedFamily.Pets;
+        }
+        catch (Exception e)
+        {
+            //
+        }
+      
+    }
+
+    private void AddAdult()
+    {
+        NavigationManager.NavigateTo("AddAdult/" + StreetNameF+"/"+HouseNumberF);
+    }
+
+    private void AddChild()
+    { 
+        NavigationManager.NavigateTo("AddChild/" + StreetNameF+"/"+HouseNumberF);
+    }
+
+    private void AddPet()
+    {
+        NavigationManager.NavigateTo("AddPet/" + StreetNameF+"/"+HouseNumberF);
+    }
+
+    private void ShowMember(String type, int id)
+    {
+        if (type.Equals("adult"))
+        {
+            Adult = AdultsInFamily.Where(a => a.Id == id).ToList()[0];
+    
+        }
+        else if (type.Equals("child"))
+        {
+            Child = ChildrenInFamily.Where(c => c.Id == id).ToList()[0];
+        }
+        else
+        {
+            Pet = PetsInFamily.Where(p => p.Id == id).ToList()[0];
+        }
+
+        memberType = type;
+    }
+
+    private void RemoveFamily(Family family)
+    {
+        FamilyService.RemoveFamilyAsync(family);
+        NavigationManager.NavigateTo("FindAddFamily");
+    }
+}
+

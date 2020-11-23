@@ -1,0 +1,90 @@
+﻿@page "/AgeChartComponent"
+@using Syncfusion.Blazor.Charts
+@using FamilyApp.Data
+@using FamilyApp.Models
+@inject NavigationManager NavigationManager
+@inject IMemberService MemberService
+
+<div class="control-section">
+     <SfChart Title="Distribution of Ages">
+ 		<ChartEvents Load="ChartLoad"/>
+         <ChartArea><ChartAreaBorder Width="2"></ChartAreaBorder></ChartArea>
+         <ChartPrimaryXAxis ValueType="Syncfusion.Blazor.Charts.ValueType.Category" Title="Age">
+             <ChartAxisMajorGridLines Width="0"></ChartAxisMajorGridLines>
+         </ChartPrimaryXAxis>
+         <ChartPrimaryYAxis LabelFormat="{value}" EdgeLabelPlacement="EdgeLabelPlacement.Shift">
+             <ChartAxisLineStyle Width="0"></ChartAxisLineStyle>
+             <ChartAxisLabelStyle Color="transparent"></ChartAxisLabelStyle>
+             <ChartAxisMajorTickLines Width="0"></ChartAxisMajorTickLines>
+             <ChartAxisMajorGridLines Width="0"></ChartAxisMajorGridLines>
+         </ChartPrimaryYAxis>
+         <ChartTooltipSettings Enable="true"></ChartTooltipSettings>
+         <ChartSeriesCollection>
+             <ChartSeries DataSource="@BarData" XName="x" YName="y" Width="2" Type="ChartSeriesType.Bar">
+                 <ChartMarker>
+                     <ChartDataLabel Visible="true" Position="LabelPosition.Top"></ChartDataLabel>
+                 </ChartMarker>
+             </ChartSeries>
+         </ChartSeriesCollection>
+     </SfChart>
+ </div>
+@code{
+    public static int Under10;
+    public static int From11;
+    public static int From21;
+    public static int From31;
+    public static int From41;
+    public static int From51;
+    public static int From61;
+    public static int From71;
+    
+    private IList<Adult> adults;
+    private IList<Child> children;
+ 
+    
+    protected override async Task OnInitializedAsync()
+    {
+        adults = await MemberService.GetAdultsAsync();
+        children = await MemberService.GetChildrenAsync();
+       
+    }
+    public class BarChartData
+    {
+        public string x { get; set; }
+        public double y { get; set; }
+     
+    }
+    public List<BarChartData> BarData =  new List<BarChartData>
+    {
+        new BarChartData { x= "1-10",  y= Under10  },
+        new BarChartData { x= "11-20", y= From11 },
+        new BarChartData { x= "21-30", y= From21  },
+        new BarChartData { x= "31-40",  y= From31},
+       new BarChartData { x= "41-50",  y= From41 },
+      new BarChartData { x= "51-60", y= From51},
+      new BarChartData { x= "61-70", y= From61 },
+      new BarChartData { x= "70+",  y= From71}
+    };
+    
+    string CurrentUri;
+    void ChartLoad(ILoadedEventArgs Args)
+    {
+        CurrentUri = NavigationManager.Uri;
+        Args.Theme = ChartTheme.Material;
+        SetValues();
+        
+    }
+    
+    void SetValues()
+    {
+        Under10 = children.Where(c => c.Age < 11).ToList().Count;
+     From11=children.Where(c => c.Age>=11).ToList().Count+
+            adults.Where(c => c.Age<21).ToList().Count;
+     From21=adults.Where(c => c.Age>=21&&c.Age<31).ToList().Count;
+     From31=adults.Where(c => c.Age>=31&&c.Age<41).ToList().Count;
+     From41=adults.Where(c => c.Age>=41&&c.Age<51).ToList().Count;
+    From51=adults.Where(c => c.Age>=51&&c.Age<61).ToList().Count;
+    From61=adults.Where(c => c.Age>=61&&c.Age<71).ToList().Count;
+     From71=adults.Where(c => c.Age>=71).ToList().Count;
+    }
+}

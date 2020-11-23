@@ -1,0 +1,42 @@
+﻿@page "/"
+@inject NavigationManager NavigationManager
+@using SignUpComponent
+@using LoginComponent
+<AuthorizeView>
+<div class="container mw-60 text-center">
+    <h2 class="text-info">Hello @context.User.Identity.Name</h2>
+    
+    <h2 class="text-info">Welcome To My Family App</h2>
+    </div>
+</AuthorizeView>
+
+<AuthorizeView>
+    <NotAuthorized>
+        <div class="container mw-60 text-center">
+            <h2 class="text-info">Welcome To My Family App!!! </h2>
+            <hr>
+            <div class="row border mt-3">
+                <div class="col-md m-3 blue p-2"> <Login/></div>
+                <div class="col-md m-3 blue p-2"><SignUp/></div>
+            </div>
+
+             <div class="row border mt-3">
+                        
+                          <div class="col-md-4 p-3"> <img src="/images/family2.jpg" alt="family" class="img-fluid"></div>
+                 <div class="col-md-8 p-5 home-font">
+                     <ul class="list-group">
+                         <li class="list-group-item list-group-item-info text-danger">Please log in for...</li>
+                         <li class="list-group-item list-group-item-primary">creating new families</li>
+                       <li class="list-group-item list-group-item-secondary">adding new members to families</li>
+                       <li class="list-group-item list-group-item-success">searching family members</li>
+                       <li class="list-group-item list-group-item-danger">viewing statistics</li>
+                       <li class="list-group-item list-group-item-warning">using various filters</li>
+                     </ul>
+                 </div>
+             </div>
+      
+        </div>
+        
+       
+    </NotAuthorized>
+</AuthorizeView>

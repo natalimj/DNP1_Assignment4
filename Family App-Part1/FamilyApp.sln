@@ -1,0 +1,14 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyApp", "FamilyApp\FamilyApp.csproj", "{BCDAEA97-BA6F-44DA-8058-DC7B3139A441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCDAEA97-BA6F-44DA-8058-DC7B3139A441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDAEA97-BA6F-44DA-8058-DC7B3139A441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal

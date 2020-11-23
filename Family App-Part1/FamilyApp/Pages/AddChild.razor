@@ -1,0 +1,229 @@
+﻿@page "/AddChild"
+@page "/AddChild/{StreetNameF}/{HouseNumberF:int}"
+@using FamilyApp.Data
+@using FamilyApp.Models
+@inject IMemberService MemberService
+@inject NavigationManager NavigationManager
+@inject IFamilyService FamilyService
+
+
+
+<div class="container">
+    <EditForm Model="@newChild" OnValidSubmit="@AddNewChild">
+        <DataAnnotationsValidator/>
+    <ValidationSummary/>
+        <div class="border p-3 rounded" style="background-color: #E8EEF2">
+            <div class="border border-info px-3">
+            <div class="form-group">
+                Name<br/>
+                <InputText @bind-Value="newChild.FirstName"/>
+            </div>
+            <div class="form-group">
+                Lastname<br/>
+                <InputText @bind-Value="newChild.LastName"/>
+            </div>
+
+            <div class="form-group">
+                Age<br/>
+                <InputNumber @bind-Value="newChild.Age"/>
+            </div>
+
+            <div class="form-group">
+
+                <InputSelect class="form-control" id="sex" @bind-Value="@newChild.Sex" style="width:200px">
+                    <option value="gender" selected disabled>Gender</option>
+                    @foreach (var gender in genders)
+                    {
+                        <option value="@gender">@gender</option>
+                    }
+                </InputSelect>
+            </div>
+            <div class="form-group">
+                Height<br/>
+                <InputNumber @bind-Value="newChild.Height"/>
+            </div>
+            <div class="form-group">
+                Weight<br/>
+                <InputNumber @bind-Value="newChild.Weight"/>
+            </div>
+
+            <div class="form-group">
+
+                <InputSelect class="form-control" id="hair" @bind-Value="@newChild.HairColor" style="width:200px">
+                    <option value="haircolor" selected disabled>Hair Color</option>
+                    @foreach (var hair in validHairs)
+                    {
+                        <option value="@hair">@hair</option>
+                    }
+                </InputSelect>
+            </div>
+
+            <div class="form-group">
+                <InputSelect class="form-control" id="eye" @bind-Value="@newChild.EyeColor" style="width:200px">
+                    <option value="eyecolor" selected disabled>Eye Color</option>
+                    @foreach (var eye in validEyes)
+                    {
+                        <option value="@eye">@eye</option>
+                    }
+                </InputSelect>
+            </div>
+</div>
+            <p class="mt-1">Select interests</p>
+            <table class="table border border-info px-3">
+                <thead>
+                </thead>
+                <tbody>
+                @foreach (var item in interests)
+                {
+                    <tr>
+                        <td>@item</td>
+                        <td>
+                            <input type="checkbox" @onchange="@((arg) => AddedChange(arg, item))"/>
+                        </td>
+                    </tr>
+                }
+                </tbody>
+            </table>
+
+        <div class="border border-info px-3 pt-1">
+            Add Pet <button class="btn ml-3" type="button" @onclick="@(() => ShowPetForm())"> <i class="oi oi-plus" style="color:cornflowerblue"/></button>
+            <b></b>
+
+            <div class="row @showPet p-2">
+                <div class="col-lg mr-2 text-center pt-2" style="background-color: #D2E6F2">
+
+                    <div class="form-group">
+                        Name<br/>
+                        <InputText @bind-Value="@petName"/>
+                    </div>
+                </div>
+
+                <div class="col-lg mr-2  text-center pt-2" style="background-color: #D2E6F2">
+                    <div class="form-group">
+                        Age<br/>
+                        <InputNumber @bind-Value="@petAge"/>
+                    </div>
+                </div>
+
+                <div class="col-lg mr-2 text-center pt-2" style="background-color: #D2E6F2">
+
+                    <div class="form-group">
+                        <InputSelect class="form-control mt-3" id="species" @bind-Value="@petSpecies" style="width:200px">
+                            <option value="species" selected disabled>Species</option>
+                            @foreach (var sp in species)
+                            {
+                                <option value="@sp">@sp</option>
+                            }
+
+                        </InputSelect></div>
+
+                </div>
+
+                <div class="col-lg">
+                    <button class="btn showPet btn-primary mt-4" type="button" @onclick="@(() => AddNewPet())"> <i class="oi oi-plus" style="color:#904C77"/></button>
+                </div>
+            </div>
+            <b></b>
+            @foreach (var p in newChildPets)
+            {
+                <p>@p.Name</p>
+            }
+            <b></b>
+
+        </div>
+        </div>
+        <button class="btn btn-info btn-lg mt-3 ml-3" type="submit">Add Child</button>
+
+    </EditForm>
+
+</div>
+
+
+
+@code {
+    
+    [Parameter]
+    public string StreetNameF { get; set; }
+    [Parameter]
+    public int HouseNumberF { get; set; }
+
+    public Family Family { get; set; }
+    Child newChild=new Child();
+     IList<Family> Families=new List<Family>();
+     List<Pet> newChildPets=new List<Pet>();
+     List<ChildInterest> ChildInterests=new List<ChildInterest>();
+
+    String showPet = "d-none";
+    String petName;
+     int petAge;
+     String petSpecies;
+    
+  
+    
+    protected override async Task OnInitializedAsync()
+    {
+        Families = await FamilyService.GetFamiliesAsync();
+        Family = await FamilyService.GetFamilyAsync(StreetNameF, HouseNumberF);
+        showPet = "d-none";
+    }
+    
+    private  void AddNewChild()
+    {
+        foreach (var intrst in ChildInterests)
+        {
+            newChild.ChildInterests.Add(intrst);
+        }
+        foreach (var pet in newChildPets)
+        {
+            newChild.Pets.Add(pet);
+        }
+        Family.Children.Add(newChild);
+        FamilyService.UpdateFamily(Family);
+        NavigationManager.NavigateTo("/");
+    }
+
+  
+    private void AddNewPet()
+    {
+        Pet newPet=new Pet();
+        newPet.Name = petName;
+        newPet.Age = petAge;
+        newPet.Species = petSpecies;
+        newChildPets.Add(newPet);
+        petName = null;
+        petAge = 0;
+        petSpecies = null;
+        showPet = "d-none";
+    }
+    
+    private void AddedChange(ChangeEventArgs evt, string interest)
+    {
+       
+        ChildInterest newCInterest=new ChildInterest();
+        newCInterest.ChildId = newChild.Id;
+        newCInterest.InterestId = interest;
+        if ((bool)evt.Value)
+        {
+            ChildInterests.Add(newCInterest);
+          
+        }
+        else
+        {
+            ChildInterests.Remove(newCInterest);
+        }
+    }
+
+    public void ShowPetForm()
+    {
+        showPet = "";
+    }
+    
+    List<String> validHairs= new[] {"Blond", "Red", "Brown", "Black",
+        "White", "Grey", "Blue", "Green", "Leverpostej"}.ToList();
+    List<string> validEyes = new[] {"Brown", "Grey", "Green", "Blue",
+        "Amber", "Hazel"}.ToList();
+    List<string> genders = new[] {"M", "F"}.ToList();
+    List<string> interests = new[] {"Soccer", "Drawing", "Kite Flying", "Roller Blades","Board Games", "Ballet", "Hockey", "Gaming", "Lego",
+        "Scout","Gymnastics", "Harry Potter", "Frozen"}.ToList();
+    List<string> species = new[] {"Hamster", "Bunny", "Frog", "Budgerigar","Owl", "Snake", "Cat", "Dog", "None"}.ToList();
+}

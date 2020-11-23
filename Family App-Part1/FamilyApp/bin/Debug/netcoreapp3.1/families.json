@@ -1,0 +1,4300 @@
+[
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Abba",
+    "houseNumber": 968,
+    "adults": [
+      {
+        "jobTitle": "Pahnsdpn",
+        "id": 7510,
+        "firstName": "Qposjndap",
+        "lastName": "Aspdofnaspf",
+        "hairColor": "Brown",
+        "eyeColor": "Green",
+        "age": 123,
+        "weight": 123,
+        "height": 123,
+        "sex": "M"
+      }
+    ],
+    "children": [],
+    "pets": [
+      {
+        "id": 860,
+        "species": "Lizard",
+        "name": "Bob",
+        "age": 1
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Airport Street",
+    "houseNumber": 1,
+    "adults": [],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 87,
+            "interestId": "Comic Books"
+          },
+          {
+            "childId": 87,
+            "interestId": "Tap Dancing"
+          }
+        ],
+        "pets": [],
+        "id": 87,
+        "firstName": "Joana",
+        "lastName": "Cartwright",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 28,
+        "weight": 66.215004,
+        "height": 163,
+        "sex": "F"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Barn Street",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Graphic Designer",
+        "id": 473,
+        "firstName": "Milania",
+        "lastName": "Drake",
+        "hairColor": "Red",
+        "eyeColor": "Blue",
+        "age": 59,
+        "weight": 33.4,
+        "height": 147,
+        "sex": "F"
+      },
+      {
+        "jobTitle": "Instructional Designer",
+        "id": 474,
+        "firstName": "Finnian",
+        "lastName": "Drake",
+        "hairColor": "Red",
+        "eyeColor": "Brown",
+        "age": 35,
+        "weight": 39,
+        "height": 170,
+        "sex": "M"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 79,
+            "interestId": "Racing Cars"
+          },
+          {
+            "childId": 79,
+            "interestId": "Tap Dancing"
+          }
+        ],
+        "pets": [
+          {
+            "id": 274,
+            "species": "Rat",
+            "name": "Persy",
+            "age": 3
+          }
+        ],
+        "id": 79,
+        "firstName": "June",
+        "lastName": "Drake",
+        "hairColor": "Black",
+        "eyeColor": "Blue",
+        "age": 17,
+        "weight": 26.18,
+        "height": 129,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 80,
+            "interestId": "Board Games"
+          },
+          {
+            "childId": 80,
+            "interestId": "Karate"
+          },
+          {
+            "childId": 80,
+            "interestId": "Reading"
+          }
+        ],
+        "pets": [],
+        "id": 80,
+        "firstName": "Alfonso",
+        "lastName": "Drake",
+        "hairColor": "Black",
+        "eyeColor": "Grey",
+        "age": 10,
+        "weight": 89.6,
+        "height": 159,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 81,
+            "interestId": "Bike Riding"
+          },
+          {
+            "childId": 81,
+            "interestId": "Frozen"
+          },
+          {
+            "childId": 81,
+            "interestId": "Gymnastics"
+          },
+          {
+            "childId": 81,
+            "interestId": "Softball"
+          },
+          {
+            "childId": 81,
+            "interestId": "Swimming"
+          }
+        ],
+        "pets": [],
+        "id": 81,
+        "firstName": "Ahmed",
+        "lastName": "Drake",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 13,
+        "weight": 23.6,
+        "height": 128,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 82,
+            "interestId": "Gaming"
+          },
+          {
+            "childId": 82,
+            "interestId": "Handball"
+          },
+          {
+            "childId": 82,
+            "interestId": "Harry Potter"
+          },
+          {
+            "childId": 82,
+            "interestId": "Hockey"
+          },
+          {
+            "childId": 82,
+            "interestId": "Painting"
+          }
+        ],
+        "pets": [
+          {
+            "id": 275,
+            "species": "Rat",
+            "name": "Chubbs",
+            "age": 4
+          }
+        ],
+        "id": 82,
+        "firstName": "Skye",
+        "lastName": "Drake",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 9,
+        "weight": 48.96,
+        "height": 134,
+        "sex": "F"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Bay Avenue",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Animal Sitter",
+        "id": 487,
+        "firstName": "Dalia",
+        "lastName": "Simms",
+        "hairColor": "Black",
+        "eyeColor": "Blue",
+        "age": 56,
+        "weight": 105.9,
+        "height": 163,
+        "sex": "F"
+      },
+      {
+        "jobTitle": "Service Advisor",
+        "id": 488,
+        "firstName": "Autumn",
+        "lastName": "Simms",
+        "hairColor": "Black",
+        "eyeColor": "Blue",
+        "age": 36,
+        "weight": 66.2,
+        "height": 168,
+        "sex": "F"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 97,
+            "interestId": "Bowling"
+          },
+          {
+            "childId": 97,
+            "interestId": "Choir Singing"
+          },
+          {
+            "childId": 97,
+            "interestId": "Painting"
+          }
+        ],
+        "pets": [
+          {
+            "id": 281,
+            "species": "Rat",
+            "name": "Cyrus",
+            "age": 3
+          }
+        ],
+        "id": 97,
+        "firstName": "Lani",
+        "lastName": "Simms",
+        "hairColor": "Black",
+        "eyeColor": "Blue",
+        "age": 18,
+        "weight": 84.32,
+        "height": 160,
+        "sex": "F"
+      }
+    ],
+    "pets": [
+      {
+        "id": 280,
+        "species": "Cat",
+        "name": "Olive",
+        "age": 12
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Belby Road",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Customer Service Manager",
+        "id": 446,
+        "firstName": "Yamileth",
+        "lastName": "Burnett",
+        "hairColor": "Blond",
+        "eyeColor": "Brown",
+        "age": 54,
+        "weight": 72.1,
+        "height": 137,
+        "sex": "F"
+      },
+      {
+        "jobTitle": "Software Developer",
+        "id": 447,
+        "firstName": "Maddison",
+        "lastName": "Vasquez",
+        "hairColor": "Black",
+        "eyeColor": "Grey",
+        "age": 52,
+        "weight": 48,
+        "height": 140,
+        "sex": "F"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 36,
+            "interestId": "Ballet"
+          },
+          {
+            "childId": 36,
+            "interestId": "Bike Riding"
+          },
+          {
+            "childId": 36,
+            "interestId": "Bowling"
+          },
+          {
+            "childId": 36,
+            "interestId": "Paper Plane Flying"
+          }
+        ],
+        "pets": [],
+        "id": 36,
+        "firstName": "Stellan",
+        "lastName": "Burnett",
+        "hairColor": "Black",
+        "eyeColor": "Amber",
+        "age": 8,
+        "weight": 31.8,
+        "height": 129,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 37,
+            "interestId": "Harry Potter"
+          },
+          {
+            "childId": 37,
+            "interestId": "Mountain Biking"
+          },
+          {
+            "childId": 37,
+            "interestId": "Tap Dancing"
+          }
+        ],
+        "pets": [
+          {
+            "id": 258,
+            "species": "Rat",
+            "name": "Digger",
+            "age": 0
+          }
+        ],
+        "id": 37,
+        "firstName": "Audrey",
+        "lastName": "Burnett",
+        "hairColor": "Brown",
+        "eyeColor": "Blue",
+        "age": 13,
+        "weight": 36.21,
+        "height": 129,
+        "sex": "F"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Bv Avenue",
+    "houseNumber": 6,
+    "adults": [
+      {
+        "jobTitle": "Animal sitter",
+        "id": 888,
+        "firstName": "Dalia",
+        "lastName": "Simms",
+        "hairColor": "Black",
+        "eyeColor": "Blue",
+        "age": 56,
+        "weight": 105.9,
+        "height": 163,
+        "sex": "F"
+      },
+      {
+        "jobTitle": "Service advisor",
+        "id": 987,
+        "firstName": "Autumn",
+        "lastName": "Simms",
+        "hairColor": "Black",
+        "eyeColor": "Blue",
+        "age": 36,
+        "weight": 66.2,
+        "height": 168,
+        "sex": "F"
+      }
+    ],
+    "children": [],
+    "pets": [
+      {
+        "id": 859,
+        "species": "Cat",
+        "name": "Olive",
+        "age": 12
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Central Street",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Fashion Designer",
+        "id": 452,
+        "firstName": "Markus",
+        "lastName": "Hood",
+        "hairColor": "Grey",
+        "eyeColor": "Brown",
+        "age": 44,
+        "weight": 62,
+        "height": 170,
+        "sex": "M"
+      },
+      {
+        "jobTitle": "Financial Auditor",
+        "id": 453,
+        "firstName": "Lesly",
+        "lastName": "Connelly",
+        "hairColor": "Black",
+        "eyeColor": "Amber",
+        "age": 40,
+        "weight": 130,
+        "height": 170,
+        "sex": "F"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 41,
+            "interestId": "Clay Modelling"
+          },
+          {
+            "childId": 41,
+            "interestId": "Fishing"
+          },
+          {
+            "childId": 41,
+            "interestId": "Hockey"
+          },
+          {
+            "childId": 41,
+            "interestId": "Hula Hoop"
+          },
+          {
+            "childId": 41,
+            "interestId": "Kite Flying"
+          },
+          {
+            "childId": 41,
+            "interestId": "Mountain Biking"
+          }
+        ],
+        "pets": [],
+        "id": 41,
+        "firstName": "Rayne",
+        "lastName": "Hood",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 4,
+        "weight": 24.31,
+        "height": 79,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 42,
+            "interestId": "Board Games"
+          },
+          {
+            "childId": 42,
+            "interestId": "Bowling"
+          },
+          {
+            "childId": 42,
+            "interestId": "Gymnastics"
+          },
+          {
+            "childId": 42,
+            "interestId": "Mountain Biking"
+          }
+        ],
+        "pets": [],
+        "id": 42,
+        "firstName": "Cecelia",
+        "lastName": "Hood",
+        "hairColor": "Black",
+        "eyeColor": "Green",
+        "age": 4,
+        "weight": 19.039999,
+        "height": 112,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 43,
+            "interestId": "Drawing"
+          },
+          {
+            "childId": 43,
+            "interestId": "Hockey"
+          },
+          {
+            "childId": 43,
+            "interestId": "Lego"
+          }
+        ],
+        "pets": [],
+        "id": 43,
+        "firstName": "Roxanna",
+        "lastName": "Hood",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 21,
+        "weight": 44.03,
+        "height": 152,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 44,
+            "interestId": "Choir Singing"
+          },
+          {
+            "childId": 44,
+            "interestId": "Painting"
+          }
+        ],
+        "pets": [],
+        "id": 44,
+        "firstName": "Colson",
+        "lastName": "Hood",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 9,
+        "weight": 57.8,
+        "height": 147,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 45,
+            "interestId": "Choir Singing"
+          },
+          {
+            "childId": 45,
+            "interestId": "Reading"
+          }
+        ],
+        "pets": [],
+        "id": 45,
+        "firstName": "Cassandra",
+        "lastName": "Hood",
+        "hairColor": "White",
+        "eyeColor": "Brown",
+        "age": 12,
+        "weight": 52.02,
+        "height": 163,
+        "sex": "F"
+      }
+    ],
+    "pets": [
+      {
+        "id": 261,
+        "species": "Cat",
+        "name": "Phoebe",
+        "age": 0
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "China Avenue",
+    "houseNumber": 1,
+    "adults": [],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 117,
+            "interestId": "Bike Riding"
+          },
+          {
+            "childId": 117,
+            "interestId": "Comic Books"
+          },
+          {
+            "childId": 117,
+            "interestId": "Hockey"
+          },
+          {
+            "childId": 117,
+            "interestId": "Horseback Riding"
+          },
+          {
+            "childId": 117,
+            "interestId": "Reading"
+          }
+        ],
+        "pets": [],
+        "id": 117,
+        "firstName": "Marlowe",
+        "lastName": "Hayden",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 18,
+        "weight": 48.45,
+        "height": 145,
+        "sex": "F"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Communal Square",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Veterenarian",
+        "id": 464,
+        "firstName": "Ansel",
+        "lastName": "Keller",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 41,
+        "weight": 40.6,
+        "height": 168,
+        "sex": "M"
+      },
+      {
+        "jobTitle": "Animal Controlofficer",
+        "id": 465,
+        "firstName": "Luciana",
+        "lastName": "Keller",
+        "hairColor": "Green",
+        "eyeColor": "Brown",
+        "age": 54,
+        "weight": 80.5,
+        "height": 150,
+        "sex": "F"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 60,
+            "interestId": "Barbie"
+          },
+          {
+            "childId": 60,
+            "interestId": "Bowling"
+          },
+          {
+            "childId": 60,
+            "interestId": "Paper Plane Flying"
+          }
+        ],
+        "pets": [
+          {
+            "id": 268,
+            "species": "Rat",
+            "name": "Dutches",
+            "age": 0
+          }
+        ],
+        "id": 60,
+        "firstName": "Rowyn",
+        "lastName": "Keller",
+        "hairColor": "Brown",
+        "eyeColor": "Brown",
+        "age": 6,
+        "weight": 45.73,
+        "height": 132,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 61,
+            "interestId": "Fishing"
+          },
+          {
+            "childId": 61,
+            "interestId": "Hula Hoop"
+          },
+          {
+            "childId": 61,
+            "interestId": "Reading"
+          }
+        ],
+        "pets": [],
+        "id": 61,
+        "firstName": "Gurfateh",
+        "lastName": "Keller",
+        "hairColor": "Leverpostej",
+        "eyeColor": "Hazel",
+        "age": 7,
+        "weight": 19.2,
+        "height": 96,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 62,
+            "interestId": "Bowling"
+          },
+          {
+            "childId": 62,
+            "interestId": "Drawing"
+          },
+          {
+            "childId": 62,
+            "interestId": "Hockey"
+          },
+          {
+            "childId": 62,
+            "interestId": "Soccer"
+          }
+        ],
+        "pets": [],
+        "id": 62,
+        "firstName": "Deven",
+        "lastName": "Keller",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 17,
+        "weight": 92.2,
+        "height": 174,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 63,
+            "interestId": "Chess"
+          },
+          {
+            "childId": 63,
+            "interestId": "Frozen"
+          },
+          {
+            "childId": 63,
+            "interestId": "Gymnastics"
+          },
+          {
+            "childId": 63,
+            "interestId": "Harry Potter"
+          },
+          {
+            "childId": 63,
+            "interestId": "Lego"
+          }
+        ],
+        "pets": [],
+        "id": 63,
+        "firstName": "Cassandra",
+        "lastName": "Keller",
+        "hairColor": "Brown",
+        "eyeColor": "Brown",
+        "age": 16,
+        "weight": 51.85,
+        "height": 155,
+        "sex": "F"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Copper Street",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Account Coordinator",
+        "id": 431,
+        "firstName": "Naliyah",
+        "lastName": "Houston",
+        "hairColor": "Black",
+        "eyeColor": "Grey",
+        "age": 37,
+        "weight": 49,
+        "height": 150,
+        "sex": "F"
+      },
+      {
+        "jobTitle": "Marine Engineer",
+        "id": 432,
+        "firstName": "Malaki",
+        "lastName": "Houston",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 50,
+        "weight": 103,
+        "height": 172,
+        "sex": "M"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 13,
+            "interestId": "Clay Modelling"
+          },
+          {
+            "childId": 13,
+            "interestId": "Harry Potter"
+          },
+          {
+            "childId": 13,
+            "interestId": "Hula Hoop"
+          },
+          {
+            "childId": 13,
+            "interestId": "Ninja Turtles"
+          },
+          {
+            "childId": 13,
+            "interestId": "Painting"
+          }
+        ],
+        "pets": [],
+        "id": 13,
+        "firstName": "Blair",
+        "lastName": "Houston",
+        "hairColor": "Brown",
+        "eyeColor": "Brown",
+        "age": 15,
+        "weight": 85.85,
+        "height": 155,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 14,
+            "interestId": "Handball"
+          },
+          {
+            "childId": 14,
+            "interestId": "Scout"
+          }
+        ],
+        "pets": [
+          {
+            "id": 245,
+            "species": "Rat",
+            "name": "Nutmeg",
+            "age": 0
+          }
+        ],
+        "id": 14,
+        "firstName": "Ila",
+        "lastName": "Houston",
+        "hairColor": "Brown",
+        "eyeColor": "Brown",
+        "age": 9,
+        "weight": 30.09,
+        "height": 152,
+        "sex": "F"
+      }
+    ],
+    "pets": [
+      {
+        "id": 244,
+        "species": "Dog",
+        "name": "Duncan",
+        "age": 5
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Corn Street",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Flight Attendant",
+        "id": 470,
+        "firstName": "Royal",
+        "lastName": "Simpson",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 37,
+        "weight": 136.6,
+        "height": 172,
+        "sex": "M"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 73,
+            "interestId": "Archery"
+          },
+          {
+            "childId": 73,
+            "interestId": "Drawing"
+          },
+          {
+            "childId": 73,
+            "interestId": "Fishing"
+          },
+          {
+            "childId": 73,
+            "interestId": "Gymnastics"
+          },
+          {
+            "childId": 73,
+            "interestId": "Kite Flying"
+          }
+        ],
+        "pets": [],
+        "id": 73,
+        "firstName": "Jesiah",
+        "lastName": "Simpson",
+        "hairColor": "Blond",
+        "eyeColor": "Blue",
+        "age": 9,
+        "weight": 27.88,
+        "height": 134,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 74,
+            "interestId": "Archery"
+          }
+        ],
+        "pets": [],
+        "id": 74,
+        "firstName": "Canaan",
+        "lastName": "Simpson",
+        "hairColor": "White",
+        "eyeColor": "Grey",
+        "age": 14,
+        "weight": 32.6,
+        "height": 148,
+        "sex": "M"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Delaware Avenue",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Bank Teller",
+        "id": 433,
+        "firstName": "Ean",
+        "lastName": "Taylor",
+        "hairColor": "Black",
+        "eyeColor": "Blue",
+        "age": 46,
+        "weight": 78.4,
+        "height": 171,
+        "sex": "M"
+      },
+      {
+        "jobTitle": "Librarian",
+        "id": 434,
+        "firstName": "Korra",
+        "lastName": "Taylor",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 58,
+        "weight": 97.3,
+        "height": 162,
+        "sex": "F"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 15,
+            "interestId": "Drawing"
+          }
+        ],
+        "pets": [
+          {
+            "id": 247,
+            "species": "Rat",
+            "name": "Panda",
+            "age": 1
+          }
+        ],
+        "id": 15,
+        "firstName": "Daria",
+        "lastName": "Taylor",
+        "hairColor": "Red",
+        "eyeColor": "Brown",
+        "age": 19,
+        "weight": 63.75,
+        "height": 160,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 16,
+            "interestId": "Board Games"
+          },
+          {
+            "childId": 16,
+            "interestId": "Painting"
+          }
+        ],
+        "pets": [],
+        "id": 16,
+        "firstName": "Jenson",
+        "lastName": "Taylor",
+        "hairColor": "Brown",
+        "eyeColor": "Grey",
+        "age": 12,
+        "weight": 25.6,
+        "height": 133,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 17,
+            "interestId": "Bowling"
+          },
+          {
+            "childId": 17,
+            "interestId": "Scout"
+          }
+        ],
+        "pets": [
+          {
+            "id": 248,
+            "species": "Rat",
+            "name": "Gringo",
+            "age": 2
+          },
+          {
+            "id": 249,
+            "species": "Rat",
+            "name": "Whispy",
+            "age": 2
+          }
+        ],
+        "id": 17,
+        "firstName": "Amora",
+        "lastName": "Taylor",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 2,
+        "weight": 18.02,
+        "height": 101,
+        "sex": "F"
+      }
+    ],
+    "pets": [
+      {
+        "id": 246,
+        "species": "Cat",
+        "name": "Silver",
+        "age": 6
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Delaware Avenue",
+    "houseNumber": 2,
+    "adults": [
+      {
+        "jobTitle": "Superintendent",
+        "id": 445,
+        "firstName": "Azul",
+        "lastName": "Duran",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 39,
+        "weight": 32.4,
+        "height": 147,
+        "sex": "F"
+      }
+    ],
+    "children": [],
+    "pets": [
+      {
+        "id": 256,
+        "species": "Dog",
+        "name": "Booster",
+        "age": 5
+      },
+      {
+        "id": 257,
+        "species": "Dog",
+        "name": "Jade",
+        "age": 14
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Democracy Avenue",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Pizza Chef",
+        "id": 454,
+        "firstName": "Peyton",
+        "lastName": "Childress",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 30,
+        "weight": 39.8,
+        "height": 169,
+        "sex": "M"
+      },
+      {
+        "jobTitle": "Multimedia Animator",
+        "id": 455,
+        "firstName": "Terry",
+        "lastName": "Childress",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 32,
+        "weight": 64,
+        "height": 170,
+        "sex": "M"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 46,
+            "interestId": "Ballet"
+          },
+          {
+            "childId": 46,
+            "interestId": "Drawing"
+          },
+          {
+            "childId": 46,
+            "interestId": "Mountain Biking"
+          },
+          {
+            "childId": 46,
+            "interestId": "Roller Blading"
+          }
+        ],
+        "pets": [],
+        "id": 46,
+        "firstName": "Manuel",
+        "lastName": "Childress",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 0,
+        "weight": 11,
+        "height": 55,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 47,
+            "interestId": "Horseback Riding"
+          },
+          {
+            "childId": 47,
+            "interestId": "Mountain Biking"
+          }
+        ],
+        "pets": [],
+        "id": 47,
+        "firstName": "Carly",
+        "lastName": "Childress",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 5,
+        "weight": 41.82,
+        "height": 108,
+        "sex": "F"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Dolniak",
+    "houseNumber": 2,
+    "adults": [],
+    "children": [],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Dolniak",
+    "houseNumber": 10,
+    "adults": [],
+    "children": [],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Dolniak",
+    "houseNumber": 101,
+    "adults": [],
+    "children": [],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Eastern Cestaand",
+    "houseNumber": 10,
+    "adults": [
+      {
+        "jobTitle": "Science teacher",
+        "id": 1000,
+        "firstName": "Harper",
+        "lastName": "Knapp",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 46,
+        "weight": 74.4,
+        "height": 176,
+        "sex": "M"
+      }
+    ],
+    "children": [],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Flower Avenue",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Tour Guide",
+        "id": 429,
+        "firstName": "Azeneth",
+        "lastName": "Welch",
+        "hairColor": "Brown",
+        "eyeColor": "Blue",
+        "age": 55,
+        "weight": 58.2,
+        "height": 143,
+        "sex": "F"
+      },
+      {
+        "jobTitle": "Pet Walker",
+        "id": 430,
+        "firstName": "Kalila",
+        "lastName": "Welch",
+        "hairColor": "Black",
+        "eyeColor": "Blue",
+        "age": 38,
+        "weight": 75.2,
+        "height": 188,
+        "sex": "F"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 9,
+            "interestId": "Bike Riding"
+          }
+        ],
+        "pets": [
+          {
+            "id": 241,
+            "species": "Rat",
+            "name": "Lazarus",
+            "age": 4
+          }
+        ],
+        "id": 9,
+        "firstName": "Kainoa",
+        "lastName": "Welch",
+        "hairColor": "Brown",
+        "eyeColor": "Blue",
+        "age": 9,
+        "weight": 27.8,
+        "height": 129,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 10,
+            "interestId": "Gymnastics"
+          }
+        ],
+        "pets": [],
+        "id": 10,
+        "firstName": "Ahmad",
+        "lastName": "Welch",
+        "hairColor": "Black",
+        "eyeColor": "Blue",
+        "age": 5,
+        "weight": 28,
+        "height": 115,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 11,
+            "interestId": "Bike Riding"
+          },
+          {
+            "childId": 11,
+            "interestId": "Ninja Turtles"
+          },
+          {
+            "childId": 11,
+            "interestId": "Soccer"
+          }
+        ],
+        "pets": [
+          {
+            "id": 242,
+            "species": "Rat",
+            "name": "Cleo",
+            "age": 2
+          }
+        ],
+        "id": 11,
+        "firstName": "Robbie",
+        "lastName": "Welch",
+        "hairColor": "Black",
+        "eyeColor": "Blue",
+        "age": 6,
+        "weight": 47,
+        "height": 105,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 12,
+            "interestId": "Chess"
+          },
+          {
+            "childId": 12,
+            "interestId": "Clay Modelling"
+          },
+          {
+            "childId": 12,
+            "interestId": "Ninja Turtles"
+          }
+        ],
+        "pets": [
+          {
+            "id": 243,
+            "species": "Rat",
+            "name": "Star",
+            "age": 2
+          }
+        ],
+        "id": 12,
+        "firstName": "Julien",
+        "lastName": "Welch",
+        "hairColor": "Black",
+        "eyeColor": "Blue",
+        "age": 8,
+        "weight": 38.4,
+        "height": 101,
+        "sex": "M"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Francis IIStreet",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "English Teacher",
+        "id": 491,
+        "firstName": "Zeus",
+        "lastName": "Dunlap",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 41,
+        "weight": 39.6,
+        "height": 178,
+        "sex": "M"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 99,
+            "interestId": "Handball"
+          },
+          {
+            "childId": 99,
+            "interestId": "Hockey"
+          },
+          {
+            "childId": 99,
+            "interestId": "Reading"
+          }
+        ],
+        "pets": [],
+        "id": 99,
+        "firstName": "Sri",
+        "lastName": "Dunlap",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 19,
+        "weight": 51.85,
+        "height": 150,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 100,
+            "interestId": "Hula Hoop"
+          }
+        ],
+        "pets": [],
+        "id": 100,
+        "firstName": "Von",
+        "lastName": "Dunlap",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 19,
+        "weight": 106.9,
+        "height": 170,
+        "sex": "M"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Gdgr",
+    "houseNumber": 99,
+    "adults": [
+      {
+        "jobTitle": "Fireman",
+        "id": 781,
+        "firstName": "John",
+        "lastName": "Bell",
+        "hairColor": "Red",
+        "eyeColor": "Blue",
+        "age": 60,
+        "weight": 43,
+        "height": 190,
+        "sex": "M"
+      }
+    ],
+    "children": [],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Gg Str",
+    "houseNumber": 18,
+    "adults": [
+      {
+        "jobTitle": "Wabbit",
+        "id": 7509,
+        "firstName": "Big",
+        "lastName": "Chungus",
+        "hairColor": "Grey",
+        "eyeColor": "Green",
+        "age": 69,
+        "weight": 200,
+        "height": 200,
+        "sex": "M"
+      }
+    ],
+    "children": [],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "History Avenue",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Animal Controlofficer",
+        "id": 494,
+        "firstName": "Areli",
+        "lastName": "Saunders",
+        "hairColor": "Blond",
+        "eyeColor": "Brown",
+        "age": 42,
+        "weight": 61.6,
+        "height": 164,
+        "sex": "F"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 108,
+            "interestId": "Choir Singing"
+          },
+          {
+            "childId": 108,
+            "interestId": "Frozen"
+          },
+          {
+            "childId": 108,
+            "interestId": "Hula Hoop"
+          },
+          {
+            "childId": 108,
+            "interestId": "Ultimate"
+          }
+        ],
+        "pets": [],
+        "id": 108,
+        "firstName": "Viridiana",
+        "lastName": "Saunders",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 0,
+        "weight": 18.87,
+        "height": 53,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 109,
+            "interestId": "Comic Books"
+          },
+          {
+            "childId": 109,
+            "interestId": "Ninja Turtles"
+          },
+          {
+            "childId": 109,
+            "interestId": "Paper Plane Flying"
+          }
+        ],
+        "pets": [],
+        "id": 109,
+        "firstName": "Darian",
+        "lastName": "Saunders",
+        "hairColor": "Brown",
+        "eyeColor": "Brown",
+        "age": 24,
+        "weight": 57.4,
+        "height": 176,
+        "sex": "M"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Hospital Street",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Travel Agent",
+        "id": 478,
+        "firstName": "Jasmin",
+        "lastName": "Mclean",
+        "hairColor": "Black",
+        "eyeColor": "Grey",
+        "age": 30,
+        "weight": 120.6,
+        "height": 180,
+        "sex": "F"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 88,
+            "interestId": "Archery"
+          },
+          {
+            "childId": 88,
+            "interestId": "Bowling"
+          },
+          {
+            "childId": 88,
+            "interestId": "Dancing"
+          },
+          {
+            "childId": 88,
+            "interestId": "Fishing"
+          },
+          {
+            "childId": 88,
+            "interestId": "Mountain Biking"
+          },
+          {
+            "childId": 88,
+            "interestId": "Racing Cars"
+          },
+          {
+            "childId": 88,
+            "interestId": "Softball"
+          }
+        ],
+        "pets": [],
+        "id": 88,
+        "firstName": "Maddix",
+        "lastName": "Mclean",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 9,
+        "weight": 26.2,
+        "height": 106,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 89,
+            "interestId": "Ballet"
+          },
+          {
+            "childId": 89,
+            "interestId": "Mountain Biking"
+          },
+          {
+            "childId": 89,
+            "interestId": "Soccer"
+          },
+          {
+            "childId": 89,
+            "interestId": "Softball"
+          },
+          {
+            "childId": 89,
+            "interestId": "Swimming"
+          }
+        ],
+        "pets": [],
+        "id": 89,
+        "firstName": "Galilea",
+        "lastName": "Mclean",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 0,
+        "weight": 8.67,
+        "height": 51,
+        "sex": "F"
+      }
+    ],
+    "pets": [
+      {
+        "id": 277,
+        "species": "Cat",
+        "name": "Atlas",
+        "age": 11
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Hurbadome Avenue",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Virtual Assistant",
+        "id": 467,
+        "firstName": "Hans",
+        "lastName": "Vaughn",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 33,
+        "weight": 80,
+        "height": 165,
+        "sex": "M"
+      },
+      {
+        "jobTitle": "Veterinarian",
+        "id": 468,
+        "firstName": "Shiloh",
+        "lastName": "Vaughn",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 40,
+        "weight": 52,
+        "height": 155,
+        "sex": "M"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 67,
+            "interestId": "Board Games"
+          },
+          {
+            "childId": 67,
+            "interestId": "Lego"
+          },
+          {
+            "childId": 67,
+            "interestId": "Mountain Biking"
+          },
+          {
+            "childId": 67,
+            "interestId": "Swimming"
+          }
+        ],
+        "pets": [],
+        "id": 67,
+        "firstName": "Alissa",
+        "lastName": "Vaughn",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 2,
+        "weight": 15.639999,
+        "height": 87,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 68,
+            "interestId": "Clay Modelling"
+          },
+          {
+            "childId": 68,
+            "interestId": "Racing Cars"
+          }
+        ],
+        "pets": [
+          {
+            "id": 271,
+            "species": "Rat",
+            "name": "Rosebud",
+            "age": 1
+          }
+        ],
+        "id": 68,
+        "firstName": "Ares",
+        "lastName": "Vaughn",
+        "hairColor": "Black",
+        "eyeColor": "Blue",
+        "age": 14,
+        "weight": 32.8,
+        "height": 164,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 69,
+            "interestId": "Board Games"
+          }
+        ],
+        "pets": [],
+        "id": 69,
+        "firstName": "Jazleen",
+        "lastName": "Vaughn",
+        "hairColor": "Brown",
+        "eyeColor": "Grey",
+        "age": 8,
+        "weight": 21.76,
+        "height": 138,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 70,
+            "interestId": "Dancing"
+          },
+          {
+            "childId": 70,
+            "interestId": "Roller Blading"
+          }
+        ],
+        "pets": [],
+        "id": 70,
+        "firstName": "Aaiden",
+        "lastName": "Vaughn",
+        "hairColor": "Leverpostej",
+        "eyeColor": "Brown",
+        "age": 3,
+        "weight": 17.8,
+        "height": 84,
+        "sex": "M"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Hurricane Avenue",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Customer Service Manager",
+        "id": 497,
+        "firstName": "Raj",
+        "lastName": "Little",
+        "hairColor": "Black",
+        "eyeColor": "Blue",
+        "age": 42,
+        "weight": 37.6,
+        "height": 178,
+        "sex": "M"
+      },
+      {
+        "jobTitle": "Marine Engineer",
+        "id": 498,
+        "firstName": "Said",
+        "lastName": "Little",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 38,
+        "weight": 69.8,
+        "height": 172,
+        "sex": "M"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 110,
+            "interestId": "Chess"
+          },
+          {
+            "childId": 110,
+            "interestId": "Gymnastics"
+          },
+          {
+            "childId": 110,
+            "interestId": "Hula Hoop"
+          },
+          {
+            "childId": 110,
+            "interestId": "Reading"
+          },
+          {
+            "childId": 110,
+            "interestId": "Softball"
+          }
+        ],
+        "pets": [],
+        "id": 110,
+        "firstName": "Mazie",
+        "lastName": "Little",
+        "hairColor": "Brown",
+        "eyeColor": "Grey",
+        "age": 1,
+        "weight": 12.92,
+        "height": 66,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 111,
+            "interestId": "Ballet"
+          }
+        ],
+        "pets": [
+          {
+            "id": 285,
+            "species": "Rat",
+            "name": "Logan",
+            "age": 1
+          }
+        ],
+        "id": 111,
+        "firstName": "Ilana",
+        "lastName": "Little",
+        "hairColor": "Black",
+        "eyeColor": "Grey",
+        "age": 18,
+        "weight": 42.670002,
+        "height": 148,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 112,
+            "interestId": "Comic Books"
+          }
+        ],
+        "pets": [],
+        "id": 112,
+        "firstName": "Thiago",
+        "lastName": "Little",
+        "hairColor": "Brown",
+        "eyeColor": "Blue",
+        "age": 1,
+        "weight": 12,
+        "height": 65,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 113,
+            "interestId": "Board Games"
+          },
+          {
+            "childId": 113,
+            "interestId": "Horseback Riding"
+          },
+          {
+            "childId": 113,
+            "interestId": "Painting"
+          }
+        ],
+        "pets": [],
+        "id": 113,
+        "firstName": "Agnes",
+        "lastName": "Little",
+        "hairColor": "White",
+        "eyeColor": "Brown",
+        "age": 12,
+        "weight": 65.025,
+        "height": 129,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 114,
+            "interestId": "Bike Riding"
+          },
+          {
+            "childId": 114,
+            "interestId": "Gymnastics"
+          },
+          {
+            "childId": 114,
+            "interestId": "Kite Flying"
+          },
+          {
+            "childId": 114,
+            "interestId": "Paper Plane Flying"
+          }
+        ],
+        "pets": [],
+        "id": 114,
+        "firstName": "Yara",
+        "lastName": "Little",
+        "hairColor": "Brown",
+        "eyeColor": "Brown",
+        "age": 17,
+        "weight": 52.87,
+        "height": 143,
+        "sex": "F"
+      }
+    ],
+    "pets": [
+      {
+        "id": 284,
+        "species": "Cat",
+        "name": "MaryJane",
+        "age": 10
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Industry Street",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Geological Engineer",
+        "id": 448,
+        "firstName": "Cru",
+        "lastName": "Rivers",
+        "hairColor": "Black",
+        "eyeColor": "Amber",
+        "age": 30,
+        "weight": 80,
+        "height": 172,
+        "sex": "M"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 38,
+            "interestId": "Chess"
+          },
+          {
+            "childId": 38,
+            "interestId": "Gymnastics"
+          },
+          {
+            "childId": 38,
+            "interestId": "Swimming"
+          }
+        ],
+        "pets": [],
+        "id": 38,
+        "firstName": "Karlie",
+        "lastName": "Rivers",
+        "hairColor": "Brown",
+        "eyeColor": "Brown",
+        "age": 1,
+        "weight": 19.89,
+        "height": 66,
+        "sex": "F"
+      }
+    ],
+    "pets": [
+      {
+        "id": 259,
+        "species": "Dog",
+        "name": "Phoenix",
+        "age": 0
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Jamesons Crossing",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Personal Trainer",
+        "id": 482,
+        "firstName": "Ripley",
+        "lastName": "Salinas",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 53,
+        "weight": 44.6,
+        "height": 139,
+        "sex": "F"
+      },
+      {
+        "jobTitle": "Mobile Application Developer",
+        "id": 483,
+        "firstName": "Sherry",
+        "lastName": "Herrera",
+        "hairColor": "Black",
+        "eyeColor": "Blue",
+        "age": 40,
+        "weight": 36.6,
+        "height": 153,
+        "sex": "F"
+      }
+    ],
+    "children": [],
+    "pets": [
+      {
+        "id": 279,
+        "species": "Dog",
+        "name": "Bongo",
+        "age": 0
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Long Road Avenue",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Chemical Engineer",
+        "id": 449,
+        "firstName": "Raquel",
+        "lastName": "Rodgers",
+        "hairColor": "Black",
+        "eyeColor": "Amber",
+        "age": 55,
+        "weight": 53.4,
+        "height": 161,
+        "sex": "F"
+      }
+    ],
+    "children": [],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Maple Street",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Guidance Counselor",
+        "id": 496,
+        "firstName": "Teegan",
+        "lastName": "Mcintosh",
+        "hairColor": "Black",
+        "eyeColor": "Hazel",
+        "age": 52,
+        "weight": 64.8,
+        "height": 147,
+        "sex": "F"
+      }
+    ],
+    "children": [],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Mill Place",
+    "houseNumber": 1,
+    "adults": [],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 2,
+            "interestId": "Archery"
+          }
+        ],
+        "pets": [],
+        "id": 2,
+        "firstName": "Forest",
+        "lastName": "Middleton",
+        "hairColor": "White",
+        "eyeColor": "Brown",
+        "age": 7,
+        "weight": 29.4,
+        "height": 127,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 3,
+            "interestId": "Chess"
+          },
+          {
+            "childId": 3,
+            "interestId": "Clay Modelling"
+          }
+        ],
+        "pets": [],
+        "id": 3,
+        "firstName": "Amar",
+        "lastName": "Middleton",
+        "hairColor": "Black",
+        "eyeColor": "Blue",
+        "age": 3,
+        "weight": 27.2,
+        "height": 78,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 4,
+            "interestId": "Handball"
+          },
+          {
+            "childId": 4,
+            "interestId": "Scout"
+          }
+        ],
+        "pets": [],
+        "id": 4,
+        "firstName": "Ari",
+        "lastName": "Middleton",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 5,
+        "weight": 18.189999,
+        "height": 92,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 5,
+            "interestId": "Chess"
+          },
+          {
+            "childId": 5,
+            "interestId": "Fishing"
+          },
+          {
+            "childId": 5,
+            "interestId": "Gymnastics"
+          }
+        ],
+        "pets": [],
+        "id": 5,
+        "firstName": "Rihaan",
+        "lastName": "Middleton",
+        "hairColor": "Brown",
+        "eyeColor": "Brown",
+        "age": 3,
+        "weight": 15.6,
+        "height": 83,
+        "sex": "M"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "New Street",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Opera Singer",
+        "id": 469,
+        "firstName": "Kristina",
+        "lastName": "Rutter",
+        "hairColor": "Brown",
+        "eyeColor": "Brown",
+        "age": 35,
+        "weight": 32.8,
+        "height": 149,
+        "sex": "F"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 71,
+            "interestId": "Fishing"
+          },
+          {
+            "childId": 71,
+            "interestId": "Ultimate"
+          }
+        ],
+        "pets": [],
+        "id": 71,
+        "firstName": "Makai",
+        "lastName": "Rutter",
+        "hairColor": "Grey",
+        "eyeColor": "Brown",
+        "age": 12,
+        "weight": 64.8,
+        "height": 152,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 72,
+            "interestId": "Ballet"
+          },
+          {
+            "childId": 72,
+            "interestId": "Chess"
+          }
+        ],
+        "pets": [
+          {
+            "id": 272,
+            "species": "Rat",
+            "name": "Cozmo",
+            "age": 3
+          }
+        ],
+        "id": 72,
+        "firstName": "Maia",
+        "lastName": "Rutter",
+        "hairColor": "Leverpostej",
+        "eyeColor": "Brown",
+        "age": 8,
+        "weight": 21.59,
+        "height": 117,
+        "sex": "F"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Newhaven Avenue",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Babysitter",
+        "id": 459,
+        "firstName": "Andrea",
+        "lastName": "Culver",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 31,
+        "weight": 81.2,
+        "height": 174,
+        "sex": "F"
+      },
+      {
+        "jobTitle": "Chemical Engineer",
+        "id": 460,
+        "firstName": "Arin",
+        "lastName": "Culver",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 51,
+        "weight": 79,
+        "height": 185,
+        "sex": "M"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 54,
+            "interestId": "Harry Potter"
+          },
+          {
+            "childId": 54,
+            "interestId": "Hula Hoop"
+          },
+          {
+            "childId": 54,
+            "interestId": "Reading"
+          }
+        ],
+        "pets": [],
+        "id": 54,
+        "firstName": "Tiberius",
+        "lastName": "Culver",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 0,
+        "weight": 11.4,
+        "height": 52,
+        "sex": "M"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Newport Street",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Travel Agent",
+        "id": 435,
+        "firstName": "Ezra",
+        "lastName": "Hawk",
+        "hairColor": "Brown",
+        "eyeColor": "Hazel",
+        "age": 31,
+        "weight": 55.8,
+        "height": 172,
+        "sex": "M"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 18,
+            "interestId": "Harry Potter"
+          },
+          {
+            "childId": 18,
+            "interestId": "Swimming"
+          }
+        ],
+        "pets": [],
+        "id": 18,
+        "firstName": "Milani",
+        "lastName": "Hawk",
+        "hairColor": "Green",
+        "eyeColor": "Brown",
+        "age": 0,
+        "weight": 8.839999,
+        "height": 52,
+        "sex": "F"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Noble City Path",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Safety Engineer",
+        "id": 427,
+        "firstName": "Taha",
+        "lastName": "Kramer",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 39,
+        "weight": 41.8,
+        "height": 174,
+        "sex": "M"
+      },
+      {
+        "jobTitle": "Teacher",
+        "id": 428,
+        "firstName": "Helena",
+        "lastName": "Mays",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 49,
+        "weight": 43.2,
+        "height": 181,
+        "sex": "F"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 8,
+            "interestId": "Barbie"
+          },
+          {
+            "childId": 8,
+            "interestId": "Hockey"
+          },
+          {
+            "childId": 8,
+            "interestId": "Painting"
+          },
+          {
+            "childId": 8,
+            "interestId": "Softball"
+          }
+        ],
+        "pets": [],
+        "id": 8,
+        "firstName": "Lucas",
+        "lastName": "Mays",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 1,
+        "weight": 15.2,
+        "height": 76,
+        "sex": "M"
+      }
+    ],
+    "pets": [
+      {
+        "id": 240,
+        "species": "Cat",
+        "name": "Mister",
+        "age": 10
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Northern Abby Avenueand",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Personal Trainer",
+        "id": 485,
+        "firstName": "Addyson",
+        "lastName": "Hogan",
+        "hairColor": "White",
+        "eyeColor": "Brown",
+        "age": 49,
+        "weight": 56.6,
+        "height": 144,
+        "sex": "F"
+      },
+      {
+        "jobTitle": "Biochemist",
+        "id": 486,
+        "firstName": "Uzziah",
+        "lastName": "Pham",
+        "hairColor": "Black",
+        "eyeColor": "Grey",
+        "age": 46,
+        "weight": 45.2,
+        "height": 176,
+        "sex": "M"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 95,
+            "interestId": "Handball"
+          },
+          {
+            "childId": 95,
+            "interestId": "Mountain Biking"
+          }
+        ],
+        "pets": [],
+        "id": 95,
+        "firstName": "Adelin",
+        "lastName": "Hogan",
+        "hairColor": "Brown",
+        "eyeColor": "Brown",
+        "age": 23,
+        "weight": 90.44,
+        "height": 163,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 96,
+            "interestId": "Barbie"
+          },
+          {
+            "childId": 96,
+            "interestId": "Comic Books"
+          },
+          {
+            "childId": 96,
+            "interestId": "Dancing"
+          },
+          {
+            "childId": 96,
+            "interestId": "Tap Dancing"
+          }
+        ],
+        "pets": [],
+        "id": 96,
+        "firstName": "Inaaya",
+        "lastName": "Hogan",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 7,
+        "weight": 31.62,
+        "height": 93,
+        "sex": "F"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Ocean Avenue",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Nurse",
+        "id": 492,
+        "firstName": "Chase",
+        "lastName": "Orozco",
+        "hairColor": "Black",
+        "eyeColor": "Hazel",
+        "age": 53,
+        "weight": 63,
+        "height": 165,
+        "sex": "M"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 101,
+            "interestId": "Ballet"
+          },
+          {
+            "childId": 101,
+            "interestId": "Gaming"
+          },
+          {
+            "childId": 101,
+            "interestId": "Paper Plane Flying"
+          }
+        ],
+        "pets": [],
+        "id": 101,
+        "firstName": "Jewel",
+        "lastName": "Orozco",
+        "hairColor": "Grey",
+        "eyeColor": "Brown",
+        "age": 2,
+        "weight": 37.91,
+        "height": 104,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 102,
+            "interestId": "Bowling"
+          },
+          {
+            "childId": 102,
+            "interestId": "Karate"
+          },
+          {
+            "childId": 102,
+            "interestId": "Tap Dancing"
+          }
+        ],
+        "pets": [],
+        "id": 102,
+        "firstName": "Izrael",
+        "lastName": "Orozco",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 34,
+        "weight": 80,
+        "height": 170,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 103,
+            "interestId": "Board Games"
+          },
+          {
+            "childId": 103,
+            "interestId": "Scout"
+          }
+        ],
+        "pets": [],
+        "id": 103,
+        "firstName": "Cattaleya",
+        "lastName": "Orozco",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 31,
+        "weight": 90.865,
+        "height": 170,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 104,
+            "interestId": "Choir Singing"
+          },
+          {
+            "childId": 104,
+            "interestId": "Reading"
+          },
+          {
+            "childId": 104,
+            "interestId": "Tap Dancing"
+          }
+        ],
+        "pets": [
+          {
+            "id": 283,
+            "species": "Rat",
+            "name": "Apollo",
+            "age": 0
+          }
+        ],
+        "id": 104,
+        "firstName": "Cassian",
+        "lastName": "Orozco",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 20,
+        "weight": 75.8,
+        "height": 172,
+        "sex": "M"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Old Port Avenue",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Fashion Designer",
+        "id": 461,
+        "firstName": "Paxton",
+        "lastName": "Davenport",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 55,
+        "weight": 55.6,
+        "height": 169,
+        "sex": "M"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 55,
+            "interestId": "Hula Hoop"
+          },
+          {
+            "childId": 55,
+            "interestId": "Lego"
+          },
+          {
+            "childId": 55,
+            "interestId": "Scout"
+          }
+        ],
+        "pets": [],
+        "id": 55,
+        "firstName": "Melania",
+        "lastName": "Davenport",
+        "hairColor": "Black",
+        "eyeColor": "Grey",
+        "age": 23,
+        "weight": 57.969997,
+        "height": 153,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 56,
+            "interestId": "Drawing"
+          },
+          {
+            "childId": 56,
+            "interestId": "Kite Flying"
+          }
+        ],
+        "pets": [],
+        "id": 56,
+        "firstName": "Finley",
+        "lastName": "Davenport",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 20,
+        "weight": 60.2,
+        "height": 178,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 57,
+            "interestId": "Drawing"
+          },
+          {
+            "childId": 57,
+            "interestId": "Tractors"
+          }
+        ],
+        "pets": [
+          {
+            "id": 264,
+            "species": "Rat",
+            "name": "Gidget",
+            "age": 3
+          },
+          {
+            "id": 265,
+            "species": "Rat",
+            "name": "Codi",
+            "age": 2
+          }
+        ],
+        "id": 57,
+        "firstName": "Jana",
+        "lastName": "Davenport",
+        "hairColor": "Black",
+        "eyeColor": "Blue",
+        "age": 30,
+        "weight": 48.45,
+        "height": 160,
+        "sex": "F"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Princess Avenue",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Babysitter",
+        "id": 493,
+        "firstName": "Caylee",
+        "lastName": "Love",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 47,
+        "weight": 61.8,
+        "height": 162,
+        "sex": "F"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 105,
+            "interestId": "Kite Flying"
+          },
+          {
+            "childId": 105,
+            "interestId": "Tractors"
+          },
+          {
+            "childId": 105,
+            "interestId": "Ultimate"
+          }
+        ],
+        "pets": [],
+        "id": 105,
+        "firstName": "Sora",
+        "lastName": "Love",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 29,
+        "weight": 32.47,
+        "height": 151,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 106,
+            "interestId": "Reading"
+          }
+        ],
+        "pets": [],
+        "id": 106,
+        "firstName": "Laurel",
+        "lastName": "Love",
+        "hairColor": "Blond",
+        "eyeColor": "Brown",
+        "age": 3,
+        "weight": 29.240002,
+        "height": 81,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 107,
+            "interestId": "Board Games"
+          },
+          {
+            "childId": 107,
+            "interestId": "Soccer"
+          }
+        ],
+        "pets": [],
+        "id": 107,
+        "firstName": "Sullivan",
+        "lastName": "Love",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 2,
+        "weight": 36.4,
+        "height": 96,
+        "sex": "M"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Rail Avenue",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Animal Shelter Manager",
+        "id": 489,
+        "firstName": "Laniyah",
+        "lastName": "Patel",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 34,
+        "weight": 89.1,
+        "height": 151,
+        "sex": "F"
+      },
+      {
+        "jobTitle": "Veterinary Assistant",
+        "id": 490,
+        "firstName": "Benaiah",
+        "lastName": "Lloyd",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 56,
+        "weight": 74.6,
+        "height": 174,
+        "sex": "M"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 98,
+            "interestId": "Bike Riding"
+          },
+          {
+            "childId": 98,
+            "interestId": "Hockey"
+          },
+          {
+            "childId": 98,
+            "interestId": "Horseback Riding"
+          },
+          {
+            "childId": 98,
+            "interestId": "Hula Hoop"
+          }
+        ],
+        "pets": [],
+        "id": 98,
+        "firstName": "Kelsey",
+        "lastName": "Lloyd",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 4,
+        "weight": 18.36,
+        "height": 103,
+        "sex": "F"
+      }
+    ],
+    "pets": [
+      {
+        "id": 282,
+        "species": "Dog",
+        "name": "Skinny",
+        "age": 14
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Railway Street",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Travel Nurse",
+        "id": 457,
+        "firstName": "Benny",
+        "lastName": "Webb",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 48,
+        "weight": 121.2,
+        "height": 169,
+        "sex": "M"
+      },
+      {
+        "jobTitle": "Biological Engineer",
+        "id": 458,
+        "firstName": "Finley",
+        "lastName": "Webb",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 45,
+        "weight": 92.6,
+        "height": 159,
+        "sex": "F"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 52,
+            "interestId": "Gaming"
+          }
+        ],
+        "pets": [],
+        "id": 52,
+        "firstName": "Shivansh",
+        "lastName": "Webb",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 12,
+        "weight": 35.2,
+        "height": 176,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 53,
+            "interestId": "Bike Riding"
+          },
+          {
+            "childId": 53,
+            "interestId": "Handball"
+          }
+        ],
+        "pets": [
+          {
+            "id": 263,
+            "species": "Rat",
+            "name": "Daphne",
+            "age": 3
+          }
+        ],
+        "id": 53,
+        "firstName": "Fredy",
+        "lastName": "Webb",
+        "hairColor": "Black",
+        "eyeColor": "Blue",
+        "age": 4,
+        "weight": 20.6,
+        "height": 108,
+        "sex": "M"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Sebastian Street",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Chauffeur",
+        "id": 443,
+        "firstName": "Kai",
+        "lastName": "Hopkins",
+        "hairColor": "Black",
+        "eyeColor": "Grey",
+        "age": 45,
+        "weight": 37.2,
+        "height": 151,
+        "sex": "F"
+      },
+      {
+        "jobTitle": "Safety Engineer",
+        "id": 444,
+        "firstName": "Kenya",
+        "lastName": "Morton",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 58,
+        "weight": 90.9,
+        "height": 163,
+        "sex": "F"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 29,
+            "interestId": "Archery"
+          },
+          {
+            "childId": 29,
+            "interestId": "Soccer"
+          },
+          {
+            "childId": 29,
+            "interestId": "Softball"
+          },
+          {
+            "childId": 29,
+            "interestId": "Tractors"
+          }
+        ],
+        "pets": [],
+        "id": 29,
+        "firstName": "Zaniyah",
+        "lastName": "Hopkins",
+        "hairColor": "Blond",
+        "eyeColor": "Brown",
+        "age": 6,
+        "weight": 15.3,
+        "height": 100,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 30,
+            "interestId": "Roller Blading"
+          }
+        ],
+        "pets": [],
+        "id": 30,
+        "firstName": "Lincoln",
+        "lastName": "Hopkins",
+        "hairColor": "White",
+        "eyeColor": "Brown",
+        "age": 21,
+        "weight": 58.6,
+        "height": 169,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 31,
+            "interestId": "Handball"
+          },
+          {
+            "childId": 31,
+            "interestId": "Kite Flying"
+          },
+          {
+            "childId": 31,
+            "interestId": "Ninja Turtles"
+          }
+        ],
+        "pets": [],
+        "id": 31,
+        "firstName": "Nash",
+        "lastName": "Hopkins",
+        "hairColor": "Brown",
+        "eyeColor": "Blue",
+        "age": 20,
+        "weight": 35.4,
+        "height": 172,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 32,
+            "interestId": "Hockey"
+          },
+          {
+            "childId": 32,
+            "interestId": "Ultimate"
+          }
+        ],
+        "pets": [],
+        "id": 32,
+        "firstName": "Nahomy",
+        "lastName": "Hopkins",
+        "hairColor": "Green",
+        "eyeColor": "Brown",
+        "age": 21,
+        "weight": 24.48,
+        "height": 144,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 33,
+            "interestId": "Bowling"
+          },
+          {
+            "childId": 33,
+            "interestId": "Reading"
+          }
+        ],
+        "pets": [],
+        "id": 33,
+        "firstName": "Gene",
+        "lastName": "Hopkins",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 26,
+        "weight": 85.5,
+        "height": 178,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 34,
+            "interestId": "Fishing"
+          },
+          {
+            "childId": 34,
+            "interestId": "Harry Potter"
+          },
+          {
+            "childId": 34,
+            "interestId": "Horseback Riding"
+          }
+        ],
+        "pets": [],
+        "id": 34,
+        "firstName": "Lizette",
+        "lastName": "Hopkins",
+        "hairColor": "Grey",
+        "eyeColor": "Blue",
+        "age": 6,
+        "weight": 15.639999,
+        "height": 102,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 35,
+            "interestId": "Comic Books"
+          }
+        ],
+        "pets": [],
+        "id": 35,
+        "firstName": "Tegan",
+        "lastName": "Hopkins",
+        "hairColor": "Brown",
+        "eyeColor": "Grey",
+        "age": 17,
+        "weight": 51.17,
+        "height": 178,
+        "sex": "F"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Shopping Street",
+    "houseNumber": 1,
+    "adults": [],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 147,
+            "interestId": "Handball"
+          },
+          {
+            "childId": 147,
+            "interestId": "Harry Potter"
+          },
+          {
+            "childId": 147,
+            "interestId": "Swimming"
+          },
+          {
+            "childId": 147,
+            "interestId": "Tap Dancing"
+          }
+        ],
+        "pets": [],
+        "id": 147,
+        "firstName": "Broderick",
+        "lastName": "Singh",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 10,
+        "weight": 89.2,
+        "height": 153,
+        "sex": "M"
+      }
+    ],
+    "pets": [
+      {
+        "id": 236,
+        "species": "Cat",
+        "name": "Wrigley",
+        "age": 5
+      },
+      {
+        "id": 237,
+        "species": "Cat",
+        "name": "Chessie",
+        "age": 9
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Silver Street",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Data Architect",
+        "id": 471,
+        "firstName": "Evalina",
+        "lastName": "Gregory",
+        "hairColor": "Black",
+        "eyeColor": "Blue",
+        "age": 42,
+        "weight": 74,
+        "height": 165,
+        "sex": "F"
+      },
+      {
+        "jobTitle": "Librarian",
+        "id": 472,
+        "firstName": "Joseph",
+        "lastName": "Gary",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 49,
+        "weight": 42,
+        "height": 175,
+        "sex": "M"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 75,
+            "interestId": "Gaming"
+          }
+        ],
+        "pets": [],
+        "id": 75,
+        "firstName": "Elora",
+        "lastName": "Gary",
+        "hairColor": "Brown",
+        "eyeColor": "Brown",
+        "age": 18,
+        "weight": 116.45,
+        "height": 150,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 76,
+            "interestId": "Bike Riding"
+          },
+          {
+            "childId": 76,
+            "interestId": "Gymnastics"
+          }
+        ],
+        "pets": [],
+        "id": 76,
+        "firstName": "Itzayana",
+        "lastName": "Gary",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 11,
+        "weight": 52.02,
+        "height": 168,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 77,
+            "interestId": "Barbie"
+          },
+          {
+            "childId": 77,
+            "interestId": "Racing Cars"
+          }
+        ],
+        "pets": [
+          {
+            "id": 273,
+            "species": "Rat",
+            "name": "Comet",
+            "age": 4
+          }
+        ],
+        "id": 77,
+        "firstName": "Lorraine",
+        "lastName": "Gary",
+        "hairColor": "Black",
+        "eyeColor": "Blue",
+        "age": 11,
+        "weight": 64.94,
+        "height": 166,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 78,
+            "interestId": "Bike Riding"
+          }
+        ],
+        "pets": [],
+        "id": 78,
+        "firstName": "Haylee",
+        "lastName": "Gary",
+        "hairColor": "Red",
+        "eyeColor": "Blue",
+        "age": 13,
+        "weight": 54.74,
+        "height": 151,
+        "sex": "F"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Sobrance Path",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Editor",
+        "id": 438,
+        "firstName": "Nikolai",
+        "lastName": "Anderson",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 36,
+        "weight": 81.2,
+        "height": 178,
+        "sex": "M"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 23,
+            "interestId": "Chess"
+          },
+          {
+            "childId": 23,
+            "interestId": "Racing Cars"
+          }
+        ],
+        "pets": [],
+        "id": 23,
+        "firstName": "Will",
+        "lastName": "Anderson",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 0,
+        "weight": 21.4,
+        "height": 51,
+        "sex": "M"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Sobrance Path",
+    "houseNumber": 2,
+    "adults": [
+      {
+        "jobTitle": "Garbage Collector",
+        "id": 484,
+        "firstName": "Benton",
+        "lastName": "Haney",
+        "hairColor": "Black",
+        "eyeColor": "Blue",
+        "age": 32,
+        "weight": 66.2,
+        "height": 173,
+        "sex": "M"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 93,
+            "interestId": "Gaming"
+          },
+          {
+            "childId": 93,
+            "interestId": "Soccer"
+          },
+          {
+            "childId": 93,
+            "interestId": "Softball"
+          }
+        ],
+        "pets": [],
+        "id": 93,
+        "firstName": "Sienna",
+        "lastName": "Haney",
+        "hairColor": "Black",
+        "eyeColor": "Blue",
+        "age": 3,
+        "weight": 11.56,
+        "height": 73,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 94,
+            "interestId": "Handball"
+          },
+          {
+            "childId": 94,
+            "interestId": "Racing Cars"
+          },
+          {
+            "childId": 94,
+            "interestId": "Roller Blading"
+          }
+        ],
+        "pets": [],
+        "id": 94,
+        "firstName": "Eden",
+        "lastName": "Haney",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 12,
+        "weight": 62.4,
+        "height": 171,
+        "sex": "M"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Square Street",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Dog Walker",
+        "id": 436,
+        "firstName": "Cruz",
+        "lastName": "Whitehouse",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 55,
+        "weight": 82.4,
+        "height": 176,
+        "sex": "M"
+      },
+      {
+        "jobTitle": "Agriculture Teacher",
+        "id": 437,
+        "firstName": "Harper",
+        "lastName": "Whitehouse",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 42,
+        "weight": 70.2,
+        "height": 148,
+        "sex": "F"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 19,
+            "interestId": "Bike Riding"
+          },
+          {
+            "childId": 19,
+            "interestId": "Reading"
+          }
+        ],
+        "pets": [
+          {
+            "id": 251,
+            "species": "Rat",
+            "name": "Tilly",
+            "age": 4
+          }
+        ],
+        "id": 19,
+        "firstName": "Frank",
+        "lastName": "Whitehouse",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 12,
+        "weight": 78.6,
+        "height": 166,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 20,
+            "interestId": "Roller Blading"
+          }
+        ],
+        "pets": [],
+        "id": 20,
+        "firstName": "Finnegan",
+        "lastName": "Whitehouse",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 21,
+        "weight": 78.2,
+        "height": 173,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 21,
+            "interestId": "Drawing"
+          },
+          {
+            "childId": 21,
+            "interestId": "Roller Blading"
+          }
+        ],
+        "pets": [],
+        "id": 21,
+        "firstName": "Sultan",
+        "lastName": "Whitehouse",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 20,
+        "weight": 79.8,
+        "height": 172,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 22,
+            "interestId": "Board Games"
+          },
+          {
+            "childId": 22,
+            "interestId": "Chess"
+          },
+          {
+            "childId": 22,
+            "interestId": "Paper Plane Flying"
+          }
+        ],
+        "pets": [],
+        "id": 22,
+        "firstName": "Tatyana",
+        "lastName": "Whitehouse",
+        "hairColor": "Black",
+        "eyeColor": "Hazel",
+        "age": 8,
+        "weight": 36.89,
+        "height": 131,
+        "sex": "F"
+      }
+    ],
+    "pets": [
+      {
+        "id": 250,
+        "species": "Cat",
+        "name": "Gunner",
+        "age": 13
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Stone Street",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Tour Guide",
+        "id": 462,
+        "firstName": "Rudy",
+        "lastName": "Snell",
+        "hairColor": "Black",
+        "eyeColor": "Grey",
+        "age": 32,
+        "weight": 79,
+        "height": 172,
+        "sex": "M"
+      },
+      {
+        "jobTitle": "Biologist",
+        "id": 463,
+        "firstName": "Skyler",
+        "lastName": "Schafer",
+        "hairColor": "Black",
+        "eyeColor": "Hazel",
+        "age": 34,
+        "weight": 85.4,
+        "height": 181,
+        "sex": "M"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 58,
+            "interestId": "Archery"
+          },
+          {
+            "childId": 58,
+            "interestId": "Fishing"
+          },
+          {
+            "childId": 58,
+            "interestId": "Racing Cars"
+          }
+        ],
+        "pets": [
+          {
+            "id": 266,
+            "species": "Rat",
+            "name": "Phoebe",
+            "age": 0
+          },
+          {
+            "id": 267,
+            "species": "Rat",
+            "name": "Fred",
+            "age": 4
+          }
+        ],
+        "id": 58,
+        "firstName": "Natanael",
+        "lastName": "Schafer",
+        "hairColor": "Brown",
+        "eyeColor": "Blue",
+        "age": 4,
+        "weight": 21.2,
+        "height": 111,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 59,
+            "interestId": "Barbie"
+          }
+        ],
+        "pets": [],
+        "id": 59,
+        "firstName": "Horacio",
+        "lastName": "Schafer",
+        "hairColor": "Black",
+        "eyeColor": "Grey",
+        "age": 6,
+        "weight": 54.8,
+        "height": 127,
+        "sex": "M"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Subway Street",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "SQLDeveloper",
+        "id": 480,
+        "firstName": "Dominique",
+        "lastName": "Collins",
+        "hairColor": "Brown",
+        "eyeColor": "Amber",
+        "age": 44,
+        "weight": 85.4,
+        "height": 155,
+        "sex": "F"
+      },
+      {
+        "jobTitle": "Java Developer",
+        "id": 481,
+        "firstName": "Tanner",
+        "lastName": "Shields",
+        "hairColor": "Grey",
+        "eyeColor": "Brown",
+        "age": 50,
+        "weight": 92.2,
+        "height": 153,
+        "sex": "M"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 90,
+            "interestId": "Racing Cars"
+          },
+          {
+            "childId": 90,
+            "interestId": "Roller Blading"
+          }
+        ],
+        "pets": [
+          {
+            "id": 278,
+            "species": "Rat",
+            "name": "Louis",
+            "age": 0
+          }
+        ],
+        "id": 90,
+        "firstName": "Sire",
+        "lastName": "Collins",
+        "hairColor": "Brown",
+        "eyeColor": "Blue",
+        "age": 2,
+        "weight": 38.4,
+        "height": 106,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 91,
+            "interestId": "Barbie"
+          },
+          {
+            "childId": 91,
+            "interestId": "Chess"
+          },
+          {
+            "childId": 91,
+            "interestId": "Kite Flying"
+          }
+        ],
+        "pets": [],
+        "id": 91,
+        "firstName": "Aileen",
+        "lastName": "Collins",
+        "hairColor": "Brown",
+        "eyeColor": "Amber",
+        "age": 10,
+        "weight": 57.29,
+        "height": 151,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 92,
+            "interestId": "Bowling"
+          },
+          {
+            "childId": 92,
+            "interestId": "Drawing"
+          },
+          {
+            "childId": 92,
+            "interestId": "Lego"
+          },
+          {
+            "childId": 92,
+            "interestId": "Paper Plane Flying"
+          }
+        ],
+        "pets": [],
+        "id": 92,
+        "firstName": "Odin",
+        "lastName": "Collins",
+        "hairColor": "Black",
+        "eyeColor": "Blue",
+        "age": 21,
+        "weight": 107.3,
+        "height": 169,
+        "sex": "M"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Swamp Street",
+    "houseNumber": 1,
+    "adults": [
+      {
+        "jobTitle": "Fire Fighter",
+        "id": 426,
+        "firstName": "Eugene",
+        "lastName": "Hood",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 48,
+        "weight": 77.9,
+        "height": 170,
+        "sex": "M"
+      }
+    ],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 6,
+            "interestId": "Ballet"
+          },
+          {
+            "childId": 6,
+            "interestId": "Comic Books"
+          },
+          {
+            "childId": 6,
+            "interestId": "Reading"
+          },
+          {
+            "childId": 6,
+            "interestId": "Scout"
+          }
+        ],
+        "pets": [
+          {
+            "id": 239,
+            "species": "Rat",
+            "name": "Bud",
+            "age": 2
+          }
+        ],
+        "id": 6,
+        "firstName": "Cedric",
+        "lastName": "Hood",
+        "hairColor": "Black",
+        "eyeColor": "Grey",
+        "age": 18,
+        "weight": 62,
+        "height": 165,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 7,
+            "interestId": "Ninja Turtles"
+          },
+          {
+            "childId": 7,
+            "interestId": "Roller Blading"
+          },
+          {
+            "childId": 7,
+            "interestId": "Swimming"
+          }
+        ],
+        "pets": [],
+        "id": 7,
+        "firstName": "Conner",
+        "lastName": "Hood",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 27,
+        "weight": 33,
+        "height": 175,
+        "sex": "M"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Sycamore Drive",
+    "houseNumber": 1,
+    "adults": [],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 1,
+            "interestId": "Bowling"
+          },
+          {
+            "childId": 1,
+            "interestId": "Mountain Biking"
+          },
+          {
+            "childId": 1,
+            "interestId": "Scout"
+          },
+          {
+            "childId": 1,
+            "interestId": "Ultimate"
+          }
+        ],
+        "pets": [],
+        "id": 1,
+        "firstName": "Konnor",
+        "lastName": "Frost",
+        "hairColor": "Black",
+        "eyeColor": "Blue",
+        "age": 3,
+        "weight": 42.4,
+        "height": 91,
+        "sex": "M"
+      }
+    ],
+    "pets": [
+      {
+        "id": 238,
+        "species": "Dog",
+        "name": "Muffin",
+        "age": 6
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Thorsgade",
+    "houseNumber": 74,
+    "adults": [],
+    "children": [],
+    "pets": []
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Venice Street",
+    "houseNumber": 1,
+    "adults": [],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 64,
+            "interestId": "Kite Flying"
+          }
+        ],
+        "pets": [],
+        "id": 64,
+        "firstName": "Inaaya",
+        "lastName": "Strong",
+        "hairColor": "Black",
+        "eyeColor": "Hazel",
+        "age": 5,
+        "weight": 16.66,
+        "height": 93,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 65,
+            "interestId": "Barbie"
+          },
+          {
+            "childId": 65,
+            "interestId": "Chess"
+          }
+        ],
+        "pets": [],
+        "id": 65,
+        "firstName": "Oren",
+        "lastName": "Strong",
+        "hairColor": "Black",
+        "eyeColor": "Hazel",
+        "age": 1,
+        "weight": 23.8,
+        "height": 72,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 66,
+            "interestId": "Kite Flying"
+          }
+        ],
+        "pets": [
+          {
+            "id": 270,
+            "species": "Rat",
+            "name": "Mini",
+            "age": 2
+          }
+        ],
+        "id": 66,
+        "firstName": "Xzavier",
+        "lastName": "Strong",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 10,
+        "weight": 38.2,
+        "height": 118,
+        "sex": "M"
+      }
+    ],
+    "pets": [
+      {
+        "id": 269,
+        "species": "Dog",
+        "name": "Cassis",
+        "age": 11
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "FamilyName": null,
+    "streetName": "Venice Street",
+    "houseNumber": 2,
+    "adults": [],
+    "children": [
+      {
+        "childInterests": [
+          {
+            "childId": 83,
+            "interestId": "Archery"
+          },
+          {
+            "childId": 83,
+            "interestId": "Bike Riding"
+          },
+          {
+            "childId": 83,
+            "interestId": "Fishing"
+          }
+        ],
+        "pets": [],
+        "id": 83,
+        "firstName": "Ronnie",
+        "lastName": "Morse",
+        "hairColor": "Brown",
+        "eyeColor": "Brown",
+        "age": 19,
+        "weight": 107.6,
+        "height": 173,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 84,
+            "interestId": "Board Games"
+          },
+          {
+            "childId": 84,
+            "interestId": "Roller Blading"
+          },
+          {
+            "childId": 84,
+            "interestId": "Swimming"
+          }
+        ],
+        "pets": [],
+        "id": 84,
+        "firstName": "Yohan",
+        "lastName": "Morse",
+        "hairColor": "Brown",
+        "eyeColor": "Brown",
+        "age": 41,
+        "weight": 76.6,
+        "height": 169,
+        "sex": "M"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 85,
+            "interestId": "Hula Hoop"
+          },
+          {
+            "childId": 85,
+            "interestId": "Paper Plane Flying"
+          },
+          {
+            "childId": 85,
+            "interestId": "Racing Cars"
+          }
+        ],
+        "pets": [
+          {
+            "id": 276,
+            "species": "Rat",
+            "name": "Huey",
+            "age": 0
+          }
+        ],
+        "id": 85,
+        "firstName": "Collette",
+        "lastName": "Morse",
+        "hairColor": "Black",
+        "eyeColor": "Brown",
+        "age": 41,
+        "weight": 59.5,
+        "height": 180,
+        "sex": "F"
+      },
+      {
+        "childInterests": [
+          {
+            "childId": 86,
+            "interestId": "Bowling"
+          },
+          {
+            "childId": 86,
+            "interestId": "Comic Books"
+          },
+          {
+            "childId": 86,
+            "interestId": "Hockey"
+          }
+        ],
+        "pets": [],
+        "id": 86,
+        "firstName": "Ashley",
+        "lastName": "Morse",
+        "hairColor": "Black",
+        "eyeColor": "Amber",
+        "age": 3,
+        "weight": 17.51,
+        "height": 93,
+        "sex": "F"
+      }
+    ],
+    "pets": []
+  },
+  {
+    "Id": 1,
+    "FamilyName": null,
+    "streetName": "Thorsgade",
+    "houseNumber": 26,
+    "adults": [],
+    "children": [],
+    "pets": []
+  }
+]

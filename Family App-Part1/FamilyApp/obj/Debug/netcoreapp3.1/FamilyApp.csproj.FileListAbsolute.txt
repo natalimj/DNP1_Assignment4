@@ -1,0 +1,575 @@
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.exe
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.deps.json
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.runtimeconfig.json
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.runtimeconfig.dev.json
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.pdb
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.Views.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.Views.pdb
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.csprojAssemblyReference.cache
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.AssemblyInfoInputs.cache
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.AssemblyInfo.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.csproj.CoreCompileInputs.cache
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorComponent.input.cache
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\FamilyApp.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.TagHelpers.input.cache
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.TagHelpers.output.cache
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorCoreGenerate.cache
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorAssemblyInfo.cache
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorAssemblyInfo.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorTargetAssemblyInfo.cache
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorTargetAssemblyInfo.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.Views.pdb
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\staticwebassets\FamilyApp.StaticWebAssets.Manifest.cache
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\staticwebassets\FamilyApp.StaticWebAssets.xml
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.pdb
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.genruntimeconfig.cache
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.csproj.CopyComplete
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\bin\Debug\netcoreapp3.1\adults.json
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddAdult.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\AddAdult.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\SeeAdult.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\SeeAdult.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\bin\Debug\netcoreapp3.1\users.json
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\SignUp.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\SignUp.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Login.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\adults.json
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.exe
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.deps.json
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.runtimeconfig.json
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.runtimeconfig.dev.json
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.pdb
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.Views.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.Views.pdb
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.csprojAssemblyReference.cache
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.AssemblyInfoInputs.cache
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.AssemblyInfo.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.csproj.CoreCompileInputs.cache
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorComponent.input.cache
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\SignUp.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\FamilyApp.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.TagHelpers.input.cache
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.TagHelpers.output.cache
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorCoreGenerate.cache
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Login.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\SignUp.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorAssemblyInfo.cache
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorAssemblyInfo.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorTargetAssemblyInfo.cache
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorTargetAssemblyInfo.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.Views.pdb
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\staticwebassets\FamilyApp.StaticWebAssets.Manifest.cache
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\staticwebassets\FamilyApp.StaticWebAssets.xml
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.pdb
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.genruntimeconfig.cache
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.csproj.CopyComplete
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddFamily.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\AddFamily.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Success.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Success.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FamilyPage.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\FamilyPage.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddChild.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\AddChild.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddPet.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\AddPet.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\users.json
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.StaticWebAssets.xml
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\Syncfusion.ExcelExport.Net.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\Syncfusion.PdfExport.Net.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Statistics.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Statistics.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Filters.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Filters.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FindMember.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\FindMember.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FindAddFamily.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\FindAddFamily.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddAdult.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ChartAgeComponent.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ChartGenderAdult.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ChartGenderChild.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FindFamily.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\AddAdult.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\ChartAgeComponent.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\ChartGenderAdult.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\ChartGenderChild.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\FindFamily.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ManageUser.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\ManageUser.razor.g.cs
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\childinterest.json
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\children.json
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\families.json
+C:\Users\natal\RiderProjects\Assignment1_Approach2\FamilyApp\bin\Debug\netcoreapp3.1\pets.json
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\adults.json
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\childinterest.json
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\children.json
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\families.json
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\pets.json
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\users.json
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.StaticWebAssets.xml
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.exe
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.deps.json
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.runtimeconfig.json
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.runtimeconfig.dev.json
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.dll
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.pdb
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.Views.dll
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.Views.pdb
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.dll
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\Syncfusion.ExcelExport.Net.dll
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\bin\Debug\netcoreapp3.1\Syncfusion.PdfExport.Net.dll
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.csprojAssemblyReference.cache
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.AssemblyInfo.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorComponent.input.cache
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddAdult.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddChild.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddFamily.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddPet.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ChartAgeComponent.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ChartGenderAdult.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ChartGenderChild.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FamilyPage.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Filters.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FindAddFamily.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FindFamily.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FindMember.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ManageUser.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\SignUp.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Statistics.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Success.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\FamilyApp.dll
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.TagHelpers.input.cache
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.TagHelpers.output.cache
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorCoreGenerate.cache
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\AddAdult.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\AddChild.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\AddFamily.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\AddPet.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\ChartAgeComponent.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\ChartGenderAdult.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\ChartGenderChild.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\FamilyPage.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Filters.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\FindAddFamily.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\FindFamily.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\FindMember.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Login.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\ManageUser.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\SignUp.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Statistics.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Success.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorAssemblyInfo.cache
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorAssemblyInfo.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorTargetAssemblyInfo.cache
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorTargetAssemblyInfo.cs
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.Views.pdb
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.csproj.CopyComplete
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\staticwebassets\FamilyApp.StaticWebAssets.Manifest.cache
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\staticwebassets\FamilyApp.StaticWebAssets.xml
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.dll
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.pdb
+C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.genruntimeconfig.cache
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\adults.json
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\childinterest.json
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\children.json
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\families.json
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\pets.json
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\users.json
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.StaticWebAssets.xml
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.exe
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.deps.json
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.runtimeconfig.json
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.runtimeconfig.dev.json
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.dll
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.pdb
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.Views.dll
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.Views.pdb
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.dll
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Syncfusion.ExcelExport.Net.dll
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Syncfusion.PdfExport.Net.dll
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.csprojAssemblyReference.cache
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.AssemblyInfo.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorComponent.input.cache
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddAdult.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddChild.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddFamily.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddPet.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ChartAgeComponent.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ChartGenderAdult.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ChartGenderChild.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FamilyPage.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Filters.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FindAddFamily.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FindFamily.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FindMember.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ManageUser.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\SignUp.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Statistics.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Success.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\FamilyApp.dll
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.TagHelpers.input.cache
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.TagHelpers.output.cache
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorCoreGenerate.cache
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\AddAdult.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\AddChild.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\AddFamily.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\AddPet.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\ChartAgeComponent.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\ChartGenderAdult.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\ChartGenderChild.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\FamilyPage.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Filters.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\FindAddFamily.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\FindFamily.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\FindMember.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Login.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\ManageUser.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\SignUp.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Statistics.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Success.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorAssemblyInfo.cache
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorAssemblyInfo.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorTargetAssemblyInfo.cache
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorTargetAssemblyInfo.cs
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.Views.pdb
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.csproj.CopyComplete
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\staticwebassets\FamilyApp.StaticWebAssets.Manifest.cache
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\staticwebassets\FamilyApp.StaticWebAssets.xml
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.dll
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.pdb
+C:\Users\natal\Desktop\dnp assignment\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.genruntimeconfig.cache
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\adults.json
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\childinterest.json
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\children.json
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\families.json
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\pets.json
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.StaticWebAssets.xml
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.exe
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.deps.json
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.runtimeconfig.json
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.runtimeconfig.dev.json
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.dll
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.pdb
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.Views.dll
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.Views.pdb
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.dll
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Syncfusion.ExcelExport.Net.dll
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\bin\Debug\netcoreapp3.1\Syncfusion.PdfExport.Net.dll
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.csprojAssemblyReference.cache
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.AssemblyInfo.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorComponent.input.cache
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddAdult.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddChild.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddFamily.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddPet.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ChartAgeComponent.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ChartGenderAdult.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ChartGenderChild.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FamilyPage.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Filters.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FindAddFamily.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FindFamily.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FindMember.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ManageUser.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\SignUp.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Statistics.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Success.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\FamilyApp.dll
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.TagHelpers.input.cache
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.TagHelpers.output.cache
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorCoreGenerate.cache
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\AddAdult.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\AddChild.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\AddFamily.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\AddPet.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\ChartAgeComponent.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\ChartGenderAdult.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\ChartGenderChild.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\FamilyPage.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Filters.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\FindAddFamily.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\FindFamily.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\FindMember.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Login.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\ManageUser.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\SignUp.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Statistics.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Success.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorAssemblyInfo.cache
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorAssemblyInfo.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorTargetAssemblyInfo.cache
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorTargetAssemblyInfo.cs
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.Views.pdb
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.csproj.CopyComplete
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\staticwebassets\FamilyApp.StaticWebAssets.Manifest.cache
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\staticwebassets\FamilyApp.StaticWebAssets.xml
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.dll
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.pdb
+C:\Users\natal\Desktop\DNP1-Assignment2\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.genruntimeconfig.cache
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\adults.json
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.StaticWebAssets.xml
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.exe
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.deps.json
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.runtimeconfig.json
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.runtimeconfig.dev.json
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.pdb
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.Views.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\FamilyApp.Views.pdb
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\Syncfusion.ExcelExport.Net.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\bin\Debug\netcoreapp3.1\Syncfusion.PdfExport.Net.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.csprojAssemblyReference.cache
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.AssemblyInfo.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorComponent.input.cache
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddAdult.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddChild.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddFamily.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddPet.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ChartAgeComponent.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ChartGenderAdult.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ChartGenderChild.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FamilyPage.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Filters.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FindAddFamily.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FindFamily.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FindMember.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ManageUser.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\SignUp.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Statistics.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Success.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\RazorDeclaration\FamilyApp.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.TagHelpers.input.cache
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.TagHelpers.output.cache
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorCoreGenerate.cache
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\AddAdult.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\AddChild.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\AddFamily.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\AddPet.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\ChartAgeComponent.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\ChartGenderAdult.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\ChartGenderChild.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\FamilyPage.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Filters.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\FindAddFamily.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\FindFamily.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\FindMember.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Login.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\ManageUser.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\SignUp.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Statistics.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Success.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorAssemblyInfo.cache
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorAssemblyInfo.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorTargetAssemblyInfo.cache
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.RazorTargetAssemblyInfo.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.Views.pdb
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.csproj.CopyComplete
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\staticwebassets\FamilyApp.StaticWebAssets.Manifest.cache
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\staticwebassets\FamilyApp.StaticWebAssets.xml
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.pdb
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family App-Part1\FamilyApp\obj\Debug\netcoreapp3.1\FamilyApp.genruntimeconfig.cache

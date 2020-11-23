@@ -1,0 +1,179 @@
+[
+  {
+    "ChildInterests": [],
+    "Pets": [],
+    "Id": 1,
+    "FirstName": "Peter",
+    "LastName": "Smith",
+    "HairColor": "Leverpostej",
+    "EyeColor": "Brown",
+    "Age": 5,
+    "Weight": 26,
+    "Height": 120,
+    "Sex": "M"
+  },
+  {
+    "ChildInterests": [
+      {
+        "ChildId": 2,
+        "InterestId": "Soccer"
+      },
+      {
+        "ChildId": 2,
+        "InterestId": "Drawing"
+      }
+    ],
+    "Pets": [
+      {
+        "Id": 2,
+        "Species": "Dog",
+        "Name": "Felix",
+        "Age": 3
+      }
+    ],
+    "Id": 2,
+    "FirstName": "Jens",
+    "LastName": "Jakobsen",
+    "HairColor": "Blond",
+    "EyeColor": "Blue",
+    "Age": 15,
+    "Weight": 55,
+    "Height": 165,
+    "Sex": "M"
+  },
+  {
+    "ChildInterests": [
+      {
+        "ChildId": 3,
+        "InterestId": "Board Games"
+      },
+      {
+        "ChildId": 3,
+        "InterestId": "Ballet"
+      }
+    ],
+    "Pets": [
+      {
+        "Id": 3,
+        "Species": "Bunny",
+        "Name": "Sugar",
+        "Age": 1
+      }
+    ],
+    "Id": 3,
+    "FirstName": "Mathilde",
+    "LastName": "Jakobsen",
+    "HairColor": "Blond",
+    "EyeColor": "Blue",
+    "Age": 12,
+    "Weight": 45,
+    "Height": 150,
+    "Sex": "F"
+  },
+  {
+    "ChildInterests": [
+      {
+        "ChildId": 4,
+        "InterestId": "Frozen"
+      },
+      {
+        "ChildId": 4,
+        "InterestId": "Lego"
+      }
+    ],
+    "Pets": [],
+    "Id": 4,
+    "FirstName": "Anne",
+    "LastName": "Jakobsen",
+    "HairColor": "Blond",
+    "EyeColor": "Blue",
+    "Age": 7,
+    "Weight": 25,
+    "Height": 130,
+    "Sex": "F"
+  },
+  {
+    "ChildInterests": [
+      {
+        "ChildId": 5,
+        "InterestId": "Kite Flying"
+      },
+      {
+        "ChildId": 5,
+        "InterestId": "Drawing"
+      }
+    ],
+    "Pets": [],
+    "Id": 5,
+    "FirstName": "Rudi",
+    "LastName": "Jensen",
+    "HairColor": "Blond",
+    "EyeColor": "Blue",
+    "Age": 4,
+    "Weight": 16,
+    "Height": 100,
+    "Sex": "M"
+  },
+  {
+    "ChildInterests": [
+      {
+        "ChildId": 6,
+        "InterestId": "Soccer"
+      },
+      {
+        "ChildId": 6,
+        "InterestId": "Gaming"
+      },
+      {
+        "ChildId": 6,
+        "InterestId": "Harry Potter"
+      }
+    ],
+    "Pets": [
+      {
+        "Id": 7,
+        "Species": "Snake",
+        "Name": "Severus",
+        "Age": 1
+      }
+    ],
+    "Id": 6,
+    "FirstName": "Magnus",
+    "LastName": "Munk",
+    "HairColor": "Blond",
+    "EyeColor": "Green",
+    "Age": 16,
+    "Weight": 65,
+    "Height": 170,
+    "Sex": "M"
+  },
+  {
+    "ChildInterests": [
+      {
+        "ChildId": 7,
+        "InterestId": "Ballet"
+      },
+      {
+        "ChildId": 7,
+        "InterestId": "Gymnastics"
+      }
+    ],
+    "Pets": [
+      {
+        "Id": 9,
+        "Species": "Cat",
+        "Name": "Silvia",
+        "Age": 2
+      }
+    ],
+    "Id": 7,
+    "FirstName": "Anne",
+    "LastName": "Munk",
+    "HairColor": "Blond",
+    "EyeColor": "Green",
+    "Age": 13,
+    "Weight": 48,
+    "Height": 155,
+    "Sex": "F"
+  }
+]

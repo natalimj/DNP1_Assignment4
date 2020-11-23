@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Family.db" uuid="c51dc7db-95a0-4c1a-830f-f5f6b898d0e7">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\Family.db</jdbc-url>
+    </data-source>
+  </component>
+</project>

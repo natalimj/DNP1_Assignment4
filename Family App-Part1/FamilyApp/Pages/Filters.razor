@@ -1,0 +1,148 @@
+﻿@page "/Filters"
+@using FamilyApp.Models
+@using FamilyApp.Data
+@inject IMemberService MemberService
+@attribute [Authorize]
+
+
+<div class="mw-100 p-3 mb-3 blue text-center"><h3>In this part you can find extra filters!</h3></div>
+<div class="form-group">
+    <select class="form-control selectpicker" @onchange=@SelectFilter style="width:300px">
+        <option value="filter" selected disabled>Select filter</option>
+        @foreach (var filter in validFilters)
+        {
+            <option value="@filter">@filter</option>
+        }
+      </select>
+
+</div>
+
+<table class="table">
+            <thead>
+            <tr>
+                <th>Name</th>
+                <th>Lastname</th>
+                <th>Age</th>
+                <th>Gender</th>
+            </tr>
+            </thead>
+            <tbody>
+
+            @if (filteredAdults== null) {
+                <p>
+                  
+                </p>
+            } else if (!filteredAdults.Any()) {
+                <p>
+                    <em>No adult exists for this filter.</em>
+                </p>
+            }
+            else
+            {
+        
+                @foreach (var adult in filteredAdults)
+                {
+                    <tr>
+                        <td>@adult.FirstName</td>
+                        <td>@adult.LastName</td>
+                        <td>@adult.Age</td>
+                        <td>@adult.Sex</td>
+
+                    </tr>
+                }
+           
+            }
+ 
+         @if (filteredChildren== null) {
+                 
+               } 
+         else if (!filteredChildren.Any()) {
+                   <p>
+                       <em>No children</em>
+                   </p>
+               }
+               else
+               {
+                   @foreach (var child in filteredChildren)
+                   {
+                       <tr>
+                           <td>@child.FirstName</td>
+                           <td>@child.LastName</td>
+                           <td>@child.Age</td>
+                           <td>@child.Sex</td>
+
+                       </tr>
+                   }
+               }
+            </tbody>
+</table>
+
+    
+@code{
+    IList<Adult> allAdults;
+    IList<Adult> filteredAdults;
+    IList<Child> allChildren;
+    IList<Child> filteredChildren;
+    String FilterType = "";
+    
+    protected override async Task OnInitializedAsync()
+    {
+        allAdults = await MemberService.GetAdultsAsync();
+        allChildren = await MemberService.GetChildrenAsync();
+      //  filteredAdults = allAdults;
+      //  filteredChildren = allChildren;
+
+    }
+
+    List<string> validFilters = new[]
+    {
+        "female adults", "male children", "doctors", "members with blue eyes",
+        "children with more than 2 interests", "children with no pets", "adults older than 45", "children between ages 5-10"
+    }.ToList();
+
+    public void SelectFilter(ChangeEventArgs e)
+    {
+        FilterType = e.Value.ToString();
+
+        switch (FilterType)
+        {
+            case "female adults":
+                filteredAdults = allAdults.Where(a => a.Sex.Equals("F")).ToList();
+                filteredChildren = null;
+                break;
+            case "male children":
+                filteredChildren = allChildren.Where(c => c.Sex.Equals("M")).ToList();
+                filteredAdults = null;
+                break;
+            case "doctors":
+                filteredAdults = allAdults.Where(a => a.JobTitle.Equals("Doctor",StringComparison.OrdinalIgnoreCase)).ToList();
+                filteredChildren = null;
+                break;
+            case "members with blue eyes":
+                filteredAdults=allAdults.Where(a => a.EyeColor.Equals("Blue",StringComparison.OrdinalIgnoreCase)).ToList();
+                filteredChildren=allChildren.Where(c => c.EyeColor.Equals("Blue",StringComparison.OrdinalIgnoreCase)).ToList();
+                break;
+            case "children with more than 2 interests":
+                filteredChildren = allChildren.Where(c => c.ChildInterests.Count>=2).ToList();
+                filteredAdults = null;
+                break;
+            case "children with no pets":
+                filteredChildren = allChildren.Where(c => c.Pets.Count==0).ToList();
+                filteredAdults = null;
+                 break;
+            case "adults older than 45":
+                filteredAdults=allAdults.Where(a => a.Age>45).ToList();
+                filteredChildren = null;
+                break;  
+            case  "children between ages 5-10":  
+                filteredChildren = allChildren.Where(c => c.Age<11&&c.Age>4).ToList();
+                filteredAdults = null;
+                break;
+            default:
+                break;
+
+        }
+    }
+    
+}        
+    

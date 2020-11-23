@@ -1,0 +1,65 @@
+﻿@page "/PieChartAdult"
+@using Syncfusion.Blazor.Charts
+@using FamilyApp.Data
+@using FamilyApp.Models
+@inject NavigationManager NavigationManager
+@inject IMemberService MemberService
+<div class="row">
+    <div class="col-lg-8 control-section">
+        <div class="control-section">
+            <SfAccumulationChart  Title="Adults" EnableAnimation="false">
+            <AccumulationChartEvents Load="BeforeRender"/>
+                <AccumulationChartTooltipSettings Enable="true"></AccumulationChartTooltipSettings>
+                <AccumulationChartLegendSettings Visible="false"></AccumulationChartLegendSettings>
+                <AccumulationChartSeriesCollection>
+                    <AccumulationChartSeries DataSource="@dataSource" XName="xValue" YName="yValue" Name="Browser" Radius="@OuterRadius" StartAngle="@StartAngle" EndAngle="@EndAngle"
+                                             InnerRadius="0%" ExplodeIndex="@ExplodeIndex" Explode="true" ExplodeOffset="@ExplodeRadius">
+                        <AccumulationDataLabelSettings Visible="true" Name="xValue" Position="AccumulationLabelPosition.Outside"></AccumulationDataLabelSettings>
+                    </AccumulationChartSeries>
+                </AccumulationChartSeriesCollection>
+            </SfAccumulationChart>
+        </div>
+    </div>
+    
+</div>
+@code{
+    public int StartAngle = 0, value = 0, EndAngle = 360, radiusValue = 70, exploderadius = 10;
+    public double ExplodeIndex = 1;
+    public string OuterRadius = "70%", ExplodeRadius = "0%";
+    public static int NumberOfFemales;
+    public static int NumberOfMales;
+    private IList<Adult> adults;
+    
+    protected override async Task OnInitializedAsync()
+    {
+        adults = await MemberService.GetAdultsAsync();
+
+    }
+    public class PieData1
+    {
+        public string xValue { get; set; }
+        public double yValue { get; set; }
+
+    }
+    private List<PieData1> dataSource = new List<PieData1>
+  {
+        new PieData1 { xValue = "Male", yValue =NumberOfMales},
+        new PieData1 { xValue = "Female",    yValue = NumberOfFemales},
+        
+    };
+    
+    string CurrentUri;
+    void BeforeRender(IAccLoadedEventArgs Args)
+    {
+        CurrentUri = NavigationManager.Uri;
+        Args.Theme = AccumulationTheme.Bootstrap;
+        SetValues();
+    }
+
+    void SetValues()
+    {
+        NumberOfFemales = adults.Where(a => a.Sex.Equals("F")).ToList().Count;
+        NumberOfMales = adults.Where(a => a.Sex.Equals("M")).ToList().Count;
+
+    }
+}

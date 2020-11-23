@@ -1,0 +1,43 @@
+﻿@page "/ManageUser"
+@using FamilyApp.Models
+@using FamilyApp.Data
+@inject IUserService UserService
+@attribute [Authorize(Policy = "MustBeAdmin")]
+
+
+<div class="container mw-60 p-3 mx-auto text-center blue">
+    <h3>For admins:</h3>
+    <h3>In this part you can delete users</h3>
+    <table class="table table-striped mt-3">
+      
+        <tbody>
+
+        @foreach (var user in users)
+        {
+            <tr >
+                <td>@user.UserName</td>
+                <td>
+                    <button @onclick="@(() => RemoveUser(user))">
+                        <i class="oi oi-delete" style="color:red"/>
+                    </button>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>
+
+@code {
+    private IList<User> users=new List<User>();
+    protected override async Task OnInitializedAsync()
+    {
+        users =  await UserService.GetBasicUsersAsync();
+    }
+
+
+    public void RemoveUser(User user)
+    {
+        UserService.RemoveUserAsync(user);
+        users.Remove(user);
+    }
+}

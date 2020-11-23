@@ -1,0 +1,58 @@
+[
+  {
+    "ChildId": 1,
+    "InterestId": "Lego"
+  },
+  {
+    "ChildId": 2,
+    "InterestId": "Soccer"
+  },
+  {
+    "ChildId": 2,
+    "InterestId": "Drawing"
+  },
+  {
+    "ChildId": 3,
+    "InterestId": "Board Games"
+  },
+  {
+    "ChildId": 3,
+    "InterestId": "Ballet"
+  },
+  {
+    "ChildId": 4,
+    "InterestId": "Frozen"
+  },
+  {
+    "ChildId": 4,
+    "InterestId": "Lego"
+  },
+  {
+    "ChildId": 5,
+    "InterestId": "Kite Flying"
+  },
+  {
+    "ChildId": 5,
+    "InterestId": "Drawing"
+  },
+  {
+    "ChildId": 6,
+    "InterestId": "Soccer"
+  },
+  {
+    "ChildId": 6,
+    "InterestId": "Gaming"
+  },
+  {
+    "ChildId": 6,
+    "InterestId": "Harry Potter"
+  },
+  {
+    "ChildId": 7,
+    "InterestId": "Ballet"
+  },
+  {
+    "ChildId": 7,
+    "InterestId": "Gymnastics"
+  }
+]

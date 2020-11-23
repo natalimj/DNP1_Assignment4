@@ -1,0 +1,175 @@
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.exe
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.deps.json
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.runtimeconfig.json
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.runtimeconfig.dev.json
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.dll
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.pdb
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.csprojAssemblyReference.cache
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.AssemblyInfoInputs.cache
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.AssemblyInfo.cs
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.csproj.CoreCompileInputs.cache
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.RazorTargetAssemblyInfo.cache
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\staticwebassets\Family Web API.StaticWebAssets.Manifest.cache
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\staticwebassets\Family Web API.StaticWebAssets.xml
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.dll
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.pdb
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.genruntimeconfig.cache
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\childinterest.json
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\families.json
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\adults.json
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\children.json
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\pets.json
+C:\Users\natal\RiderProjects\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\users.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\adults.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\childinterest.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\users.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\children.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\families.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\pets.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.exe
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.deps.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.runtimeconfig.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.runtimeconfig.dev.json
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.dll
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.pdb
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.csprojAssemblyReference.cache
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.AssemblyInfo.cs
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.RazorTargetAssemblyInfo.cache
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\staticwebassets\Family Web API.StaticWebAssets.Manifest.cache
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\staticwebassets\Family Web API.StaticWebAssets.xml
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.dll
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.pdb
+C:\Users\natal\Desktop\DNP1-Assignment3\Family Web API\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.genruntimeconfig.cache
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\users.json
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.exe
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.deps.json
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.runtimeconfig.json
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.runtimeconfig.dev.json
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.pdb
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.csprojAssemblyReference.cache
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.AssemblyInfo.cs
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.RazorTargetAssemblyInfo.cache
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.csproj.CopyComplete
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\obj\Debug\netcoreapp3.1\staticwebassets\Family Web API.StaticWebAssets.Manifest.cache
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\obj\Debug\netcoreapp3.1\staticwebassets\Family Web API.StaticWebAssets.xml
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.dll
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.pdb
+C:\Users\natal\Desktop\DNP1-Assignment4\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.genruntimeconfig.cache
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.exe
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.deps.json
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.runtimeconfig.json
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.runtimeconfig.dev.json
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Family Web API.pdb
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.csprojAssemblyReference.cache
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.AssemblyInfo.cs
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.RazorTargetAssemblyInfo.cache
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.csproj.CopyComplete
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\obj\Debug\netcoreapp3.1\staticwebassets\Family Web API.StaticWebAssets.Manifest.cache
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\obj\Debug\netcoreapp3.1\staticwebassets\Family Web API.StaticWebAssets.xml
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.dll
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.pdb
+C:\Users\natal\Desktop\dersler-3.donem\DNP1-Assignment4\Family Database_WebAPI\Family Web API\obj\Debug\netcoreapp3.1\Family Web API.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+﻿@using LoginComponent
+@inherits LayoutComponentBase
+
+<div class="sidebar">
+    <NavMenu/>
+</div>
+
+<div class="main">
+    
+    <AuthorizeView>
+        <Authorized>
+            <div class="top-row px-4">
+                <Login/>
+            </div>
+        </Authorized>
+           </AuthorizeView>
+
+    <div class="content px-4">
+        @Body
+    </div>
+</div>

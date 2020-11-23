@@ -1,0 +1,241 @@
+﻿@page "/SeeAdult"
+@using FamilyApp.Models
+@using FamilyApp.Data
+@using Syncfusion.Blazor.Navigations
+@inject IMemberService MemberService
+@inject IFamilyService FamilyService
+@inject NavigationManager NavigationManager
+@attribute [Authorize]
+
+
+
+<div class="container mw-100 p-3 text-center blue"><h3>In this part you can find family members by name or lastname</h3></div>
+<AuthorizeView Policy="MustBeAdmin">
+    <div class="mw-100 p-3 text-center" style="background-color: #7abaff"><h3> and remove family members</h3></div>
+</AuthorizeView>
+<div class="mx-auto text-center my-3 border border-info rounded">
+<p class="mt-2">Enter name or lastname:
+            <br/>
+            <input @bind="byName"/>
+        </p>
+<p class="actions">
+                <button class="btn btn-outline-dark button-p" @onclick="@(() => FilterByName(byName))">Filter</button>
+            </p>
+<p style="color:#dc3545">@errorMessage</p>
+</div>
+@if (filteredAdults== null&&filteredChildren==null) {
+   
+} 
+else if (!filteredAdults.Any()&&!filteredChildren.Any()) {
+    <p>
+        <em>No member exists with given name.</em>
+    </p>
+}
+else
+{
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Name</th>
+            <th>Lastname</th>
+            <th>Age</th>
+            <th>Gender</th>
+            <th>Family</th>
+   
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var adult in filteredAdults)
+        {
+            <tr >
+                <td>@adult.FirstName</td>
+                <td>@adult.LastName</td>
+                <td>@adult.Age</td>
+                <td>@adult.Sex</td>
+                <td><button @onclick="@(() => NavigateToFamily(@adult))">
+                    <i class="oi oi-arrow-right" style="color:red"/>
+                </button></td>
+            
+                  <AuthorizeView Policy="MustBeAdmin">
+                                   
+                                        <td>
+                                            <button @onclick="@(() => RemoveAdult(adult))">
+                                                <i class="oi oi-delete" style="color:red"/>
+                                            </button>
+                                        </td>
+                                     
+                                </AuthorizeView>
+
+            </tr>
+        }
+         @foreach (var child in filteredChildren)
+                {
+                    <tr>
+                        <td>@child.FirstName</td>
+                        <td>@child.LastName</td>
+                        <td>@child.Age</td>
+                        <td>@child.Sex</td>
+                        <td><button @onclick="@(() => NavigateToFamily(@child))">
+                            <i class="oi oi-arrow-right" style="color:red"/>
+                        </button></td>
+                    
+                          <AuthorizeView Policy="MustBeAdmin">
+                                           
+                                                <td>
+                                                    <button @onclick="@(() => RemoveChild(child))">
+                                                        <i class="oi oi-delete" style="color:red"/>
+                                                    </button>
+                                                </td>
+                                             
+                                        </AuthorizeView>
+        
+                    </tr>
+                }
+        </tbody>
+    </table>
+
+@code {
+    private IList<Adult> filteredAdults;
+    private IList<Child> filteredChildren;
+    private IList<Family> families;
+    private IList<Adult> adults;
+    private IList<Child> children;
+    private Adult myAdult;
+    private string? byName;
+    private string errorMessage = "";
+    
+    protected override async Task OnInitializedAsync()
+    {
+        adults = await MemberService.GetAdultsAsync();
+        children = await MemberService.GetChildrenAsync();
+        families = await FamilyService.GetFamiliesAsync();
+        filteredAdults = adults;
+        filteredChildren = children;
+    }
+
+    private void FilterByName(String byName)
+    {
+        string first = " ";
+        string last = " ";
+
+
+        if (byName == null)
+        {
+            errorMessage = "Please enter a name!";
+        }
+        else
+        {
+
+            if (byName.Trim().Contains(" "))
+        {
+            string[] words = byName.Split(' ');
+            first = words[0];
+            last = words[1];
+        }
+
+
+        if (byName == " ")
+        {
+            errorMessage = "Please enter a name!";
+        }
+
+        else
+        {
+            errorMessage = "";
+
+    //filters people by given words-- name or lastname
+
+            filteredChildren = children.Where(c => c.FirstName.Equals(byName.Trim(), StringComparison.OrdinalIgnoreCase)
+                                                   || c.LastName.Equals(byName.Trim(), StringComparison.OrdinalIgnoreCase)
+                                                   || c.FirstName.Equals(first, StringComparison.OrdinalIgnoreCase)
+                                                   || c.LastName.Equals(last, StringComparison.OrdinalIgnoreCase)
+                                                   || c.FirstName.Equals(last, StringComparison.OrdinalIgnoreCase)
+                                                   || c.LastName.Equals(first, StringComparison.OrdinalIgnoreCase)
+                ).ToList();
+
+
+            filteredAdults = adults.Where(a => a.FirstName.Equals(byName.Trim(), StringComparison.OrdinalIgnoreCase)
+                                               || a.LastName.Equals(byName.Trim(), StringComparison.OrdinalIgnoreCase)
+                                               || a.FirstName.Equals(first, StringComparison.OrdinalIgnoreCase)
+                                               || a.LastName.Equals(last, StringComparison.OrdinalIgnoreCase)
+                                               || a.FirstName.Equals(last, StringComparison.OrdinalIgnoreCase)
+                                               || a.LastName.Equals(first, StringComparison.OrdinalIgnoreCase)
+                ).ToList();
+        }
+        }
+    }
+
+    
+    private void RemoveAdult(Adult adult)
+    {
+        FamilyService.RemoveAdultFromFamilyAsync(adult);
+        MemberService.RemoveAdultAsync(adult);
+        adults.Remove(adult);
+        filteredAdults.Remove(adult);
+        byName = "";
+        errorMessage = adult.FirstName + " " + adult.LastName + " has been removed.";
+    }
+    
+    private void RemoveChild(Child child)
+    {
+        MemberService.RemoveChildAsync(child);
+        FamilyService.RemoveChildFromFamilyAsync(child);
+        children.Remove(child);
+        filteredChildren.Remove(child);
+        byName = "";
+        errorMessage = child.FirstName + " " + child.LastName + " has been removed.";
+    }
+
+    private void NavigateToFamily(Adult adult)
+    {
+        List<Family> newFamilies=new List<Family>();
+        foreach (var family in families)
+        {
+            foreach (var ad in family.Adults)
+            {
+                if (adult.Id == ad.Id)
+                {
+                    newFamilies.Add(family);
+                }
+            }
+        }
+        try
+        {
+            NavigationManager.NavigateTo("FamilyPage/" + newFamilies[0].StreetName+"/"+newFamilies[0].HouseNumber);
+        }
+        catch
+        {
+            errorMessage = "This member does not belong a family";
+        }
+    }
+    
+    private void NavigateToFamily(Child child)
+    {
+        List<Family> newFamilies=new List<Family>();
+        
+        foreach (var family in families)
+        {
+            foreach (var ch in family.Children)
+            {
+                if (child.Id == ch.Id)
+                {
+                    newFamilies.Add(family);
+                }
+            }
+        }
+        
+        try
+        {
+            NavigationManager.NavigateTo("FamilyPage/" + newFamilies[0].StreetName+"/"+newFamilies[0].HouseNumber);
+        }
+        catch
+        {
+            errorMessage = "This member does not belong a family";
+        }
+   
+    }
+}}
+    
+    
+    
+

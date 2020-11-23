@@ -1,0 +1,48 @@
+﻿@page "/Statistics"
+@using Syncfusion.Blazor.Charts
+@using FamilyApp.Data
+@using FamilyApp.Models
+@inject NavigationManager NavigationManager
+@inject IMemberService MemberService
+@attribute [Authorize]
+
+
+<div class="container mx-auto rounded ">
+   
+    <div class="mw-100 p-3 text-center blue">
+        <h3>Distribution of Ages</h3>
+        <ChartAgeComponent/>
+    </div>
+    
+    <div class="mw-100 p-3 my-3 p-3 text-center blue">
+        <h3>Distribution of Genders</h3>
+        <div class="row">
+            <div class="col-md-6 d-flex justify-content-md-around"><ChartGenderAdult/></div>
+            <div class="col-md-6 d-flex justify-content-md-around"><ChartGenderChild/></div>
+        </div>
+    </div>
+</div>
+
+
+@code{
+
+    static int ChildMale;
+    static int ChildFemale;
+    static int AdultMale;
+    static int AdultFemale;
+     IList<Adult> Adults;
+    IList<Child> Children;
+ 
+    
+    protected override async Task OnInitializedAsync()
+    {
+        Adults = await MemberService.GetAdultsAsync();
+        Children = await MemberService.GetChildrenAsync();
+        AdultFemale = Adults.Where(a => a.Sex.Equals("F")).ToList().Count;
+        ChildFemale=Children.Where(c => c.Sex.Equals("F")).ToList().Count;
+        AdultMale = Adults.Where(a => a.Sex.Equals("M")).ToList().Count;
+        ChildMale=Children.Where(c => c.Sex.Equals("M")).ToList().Count;
+        StateHasChanged();
+    }
+    
+    }

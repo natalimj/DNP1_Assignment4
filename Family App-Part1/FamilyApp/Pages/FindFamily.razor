@@ -1,0 +1,67 @@
+﻿@page "/FindFamily"
+@using FamilyApp.Models
+@using FamilyApp.Data
+@inject NavigationManager NavigationManager
+@inject IFamilyService FamilyService
+<h3>Find Family</h3>
+<img src="/images/family4.jpg" alt="family" class="img-thumbnail">
+<p>Enter Street Name
+    <br/>
+    <input @bind="street"/>
+</p>
+<p>Enter Number
+            <br/>
+            <input @bind="number"/>
+        </p>
+<p class="actions">
+  
+     <button class="btn btn-outline-dark button-p"  @onclick="@(() => FilterByName(street,number))">Search</button>
+            </p>
+<p style="color: #c82333">@errorMessage</p>
+
+
+@code {
+    Family filteredFamily;
+    IList<Family> families;
+
+    string street;
+    int number;
+    string errorMessage = "";
+  
+    protected override async Task OnInitializedAsync()
+    {
+        families = await FamilyService.GetFamiliesAsync();
+    }
+
+    private void FilterByName(string streetName,int houseNumber)
+    {
+        if (street==null||number == 0)
+        {
+            errorMessage = "please enter street name and number";
+        }
+        else
+        {
+            errorMessage = "";
+            
+            foreach (var f in families)
+            {
+                if (f.StreetName.Equals(streetName, StringComparison.OrdinalIgnoreCase) && f.HouseNumber ==houseNumber)
+                {
+                    filteredFamily = f;
+                }
+            }
+
+            if (filteredFamily == null)
+            {
+                errorMessage = "No result";
+            }
+            else
+            {
+                NavigationManager.NavigateTo("FamilyPage/" +streetName+"/"+houseNumber);
+            }
+    
+        }
+    }
+
+   
+}

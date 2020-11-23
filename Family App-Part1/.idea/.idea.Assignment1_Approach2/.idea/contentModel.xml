@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\natal\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\natal\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Assignment1_Approach2.1411233926.00" t="ExcludeRecursive" />
+    <e p="C:\Users\natal\AppData\Roaming\JetBrains\Rider2020.2\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\natal\Desktop\dnp2-3\Assignment1_Approach2-30,10 - Copy" t="IncludeFlat">
+      <e p="Assignment1_Approach2.sln" t="IncludeFlat" />
+      <e p="FamilyApp" t="IncludeRecursive">
+        <e p="_Imports.razor" t="Include" />
+        <e p="adults.json" t="Include" />
+        <e p="App.razor" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="Authentication" t="Include">
+          <e p="CustomAuthenticationStateProvider.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="childinterest.json" t="Include" />
+        <e p="children.json" t="Include" />
+        <e p="Data" t="Include">
+          <e p="FamilyService.cs" t="Include" />
+          <e p="IFamilyService.cs" t="Include" />
+          <e p="IMemberService.cs" t="Include" />
+          <e p="IUserService.cs" t="Include" />
+          <e p="MemberService.cs" t="Include" />
+          <e p="UserService.cs" t="Include" />
+        </e>
+        <e p="families.json" t="Include" />
+        <e p="FamilyApp.csproj" t="IncludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="Adult.cs" t="Include" />
+          <e p="Child.cs" t="Include" />
+          <e p="ChildInterest.cs" t="Include" />
+          <e p="Family.cs" t="Include" />
+          <e p="Person.cs" t="Include" />
+          <e p="Pet.cs" t="Include" />
+          <e p="User.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="FamilyApp.AssemblyInfo.cs" t="Include" />
+              <e p="FamilyApp.RazorAssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Pages" t="Include">
+          <e p="_Host.cshtml" t="Include" />
+          <e p="AddAdult.razor" t="Include" />
+          <e p="AddChild.razor" t="Include" />
+          <e p="AddFamily.razor" t="Include" />
+          <e p="AddPet.razor" t="Include" />
+          <e p="ChartAgeComponent.razor" t="Include" />
+          <e p="ChartGenderAdult.razor" t="Include" />
+          <e p="ChartGenderChild.razor" t="Include" />
+          <e p="Error.cshtml" t="Include" />
+          <e p="FamilyPage.razor" t="Include" />
+          <e p="Filters.razor" t="Include" />
+          <e p="FindAddFamily.razor" t="Include" />
+          <e p="FindFamily.razor" t="Include" />
+          <e p="FindMember.razor" t="Include" />
+          <e p="Index.razor" t="Include" />
+          <e p="Login.razor" t="Include" />
+          <e p="ManageUser.razor" t="Include" />
+          <e p="SignUp.razor" t="Include" />
+          <e p="Statistics.razor" t="Include" />
+          <e p="Success.razor" t="Include" />
+        </e>
+        <e p="pets.json" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Shared" t="Include">
+          <e p="MainLayout.razor" t="Include" />
+          <e p="NavMenu.razor" t="Include" />
+          <e p="SurveyPrompt.razor" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="users.json" t="Include" />
+        <e p="wwwroot" t="Include">
+          <e p="css" t="Include">
+            <e p="bootstrap" t="Include">
+              <e p="bootstrap.min.css" t="Include" />
+              <e p="bootstrap.min.css.map" t="Include" />
+            </e>
+            <e p="open-iconic" t="Include">
+              <e p="font" t="Include">
+                <e p="css" t="Include">
+                  <e p="open-iconic-bootstrap.min.css" t="Include" />
+                </e>
+                <e p="fonts" t="Include">
+                  <e p="open-iconic.eot" t="Include" />
+                  <e p="open-iconic.otf" t="Include" />
+                  <e p="open-iconic.svg" t="Include" />
+                  <e p="open-iconic.ttf" t="Include" />
+                  <e p="open-iconic.woff" t="Include" />
+                </e>
+              </e>
+              <e p="FONT-LICENSE" t="Include" />
+              <e p="ICON-LICENSE" t="Include" />
+              <e p="README.md" t="Include" />
+            </e>
+            <e p="site.css" t="Include" />
+          </e>
+          <e p="favicon.ico" t="Include" />
+          <e p="images" t="Include">
+            <e p="a1.png" t="Include" />
+            <e p="c1.png" t="Include" />
+            <e p="family2.jpg" t="Include" />
+            <e p="family3.jpg" t="Include" />
+            <e p="family4.jpg" t="Include" />
+            <e p="family5.jpg" t="Include" />
+            <e p="familyicon.png" t="Include" />
+            <e p="p1.png" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

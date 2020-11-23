@@ -1,0 +1,47 @@
+﻿@page "/Success"
+@page "/Success/{StreetNameF}/{HouseNumberF:int}"
+@using FamilyApp.Data
+@using FamilyApp.Models
+@using System.Threading
+@inject IFamilyService FamilyService
+@inject NavigationManager NavigationManager
+
+<h3 style="color: #e4606d">Added succesfully!</h3>
+
+<p class="actions">
+                <button class="btn btn-outline-dark button-p" @onclick="@(() => NavigateToFamily())">Go to Family Page</button>
+            </p>
+@code {
+
+    [Parameter]
+    public string StreetNameF { get; set; }
+    [Parameter]
+    public int HouseNumberF { get; set; }
+
+    public Family Family { get; set; }
+    private IList<Family> Families;
+
+    protected override async Task OnInitializedAsync()
+    {
+        
+             Families = await FamilyService.GetFamiliesAsync();
+        
+        foreach (var f in Families)
+        {
+            if (f.StreetName.Equals(StreetNameF) && f.HouseNumber ==HouseNumberF)
+            {
+                Family = f;
+            }
+        }
+
+        
+    }
+
+    private void NavigateToFamily()
+    {
+        Thread.Sleep(1000);
+
+        NavigationManager.NavigateTo("FamilyPage/" +StreetNameF+"/"+HouseNumberF);
+    }
+
+}
